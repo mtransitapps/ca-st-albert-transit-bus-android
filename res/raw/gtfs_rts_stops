@@ -10,9 +10,9 @@
 10,'0010','Oakmont Dr / Oak Vista Dr',53.661488,-113.606073
 11,'0011','Grenfell Av / Gatewood Av',53.62129,-113.63583
 12,'0012','Oakridge Dr N / Oakmont Dr',53.660557,-113.609493
-13,'0013','Gatewood Av / SW.C. Av',53.621613,-113.64162
+13,'0013','Gatewood Av / Sir Winston Churchill Av',53.621613,-113.64162
 14,'0014','Bellerose Dr / Oakland Way',53.662742,-113.613454
-15,'0015','Grandin Vlg / SW.C. Av',53.619872,-113.64212
+15,'0015','Grandin Vlg / Sir Winston Churchill Av',53.619872,-113.64212
 16,'0016','Eastpark Dr / Erin Rdg Dr',53.665304,-113.614385
 17,'0017','Granada Pl / Gainsborough Av',53.6157,-113.638436
 18,'0018','Eastgate Way / Erin Rdg Dr',53.667224,-113.618521
@@ -42,13 +42,13 @@
 46,'0046','Kingsdale Cr / Kingswood Blvd',53.64792,-113.588211
 47,'0047','Grenfell Av / Gainsborough Av',53.616517,-113.635179
 48,'0048','Kingsdale Cr / Kingswood Blvd',53.650374,-113.586394
-49,'0049','S.W.C. Av / Gainsborough Av',53.615963,-113.638013
+49,'0049','Sir Winston Churchill Av / Gainsborough Av',53.615963,-113.638013
 50,'0050','Kingswood Blvd / Kingsway Dr',53.651969,-113.583893
-51,'0051','Gainsborough Av / SW.C. Av',53.616697,-113.641187
+51,'0051','Gainsborough Av / Sir Winston Churchill Av',53.616697,-113.641187
 52,'0052','Kingsbury Cr / Kingsway Dr',53.651463,-113.588663
-53,'0053','S.W.C. Av / Grandin Vlg',53.619282,-113.641854
+53,'0053','Sir Winston Churchill Av / Grandin Vlg',53.619282,-113.641854
 54,'0054','Kinght Ct / Kingsway Dr',53.650731,-113.591386
-55,'0055','S.W.C. Av / Gatewood Av',53.621672,-113.641204
+55,'0055','Sir Winston Churchill Av / Gatewood Av',53.621672,-113.641204
 56,'0056','Kingswood Dr / Kingsway Dr',53.650595,-113.591606
 57,'0057','Greystone Pl / Grenfell Av',53.621734,-113.634871
 58,'0058','Kelso Ct / Kingsway Dr',53.652014,-113.587732
@@ -65,9 +65,9 @@
 69,'0069','Perron St / St-Anne St',53.634834,-113.625672
 70,'0070','Oakmont Dr / Bellerose Dr',53.656361,-113.614803
 71,'0071','Nicola Rd / North Rdg Dr',53.647434,-113.671481
-72,'0072','Tache St / SW.C. Av',53.629766,-113.629739
+72,'0072','Tache St / Sir Winston Churchill Av',53.629766,-113.629739
 74,'0074','LBH BLDG Supplies / Riel Dr',53.626744,-113.636527
-76,'0076','No. 19 / Riel Dr',53.6257,-113.63916
+76,'0076','No 19 / Riel Dr',53.6257,-113.63916
 78,'0078','Barker''s Pet Motel / Riel Dr',53.62444,-113.642339
 80,'0080','Rodeo Dr / Riel Dr',53.619262,-113.646727
 82,'0082','Rowland Cr / Riel Dr',53.617407,-113.647649
@@ -76,9 +76,9 @@
 90,'0090','Rayborn Cr S / Riel Dr',53.620203,-113.64631
 92,'0092','Rayborn Cr N / Riel Dr',53.623705,-113.643629
 94,'0094','Prp Western Plastic / Riel Dr',53.625612,-113.638898
-96,'0096','No. 2a / Riel Dr',53.626756,-113.635946
-98,'0098','Greshan Blvd / SW.C. Av',53.627284,-113.632678
-100,'0100','Tache St / SW.C. Av',53.629745,-113.628985
+96,'0096','No 2a / Riel Dr',53.626756,-113.635946
+98,'0098','Greshan Blvd / Sir Winston Churchill Av',53.627284,-113.632678
+100,'0100','Tache St / Sir Winston Churchill Av',53.629745,-113.628985
 103,'0103','Morgan Cr / Mission Av',53.636861,-113.643723
 104,'0104','Carnegie Dr / Corriveau Av',53.642263,-113.574969
 105,'0105','St-Vital Ave / Mission Av',53.633094,-113.638067
@@ -94,7 +94,7 @@
 115,'0115','Grandin Mall / Grandin Rd',53.629843,-113.626488
 116,'0116','North Rdg Dr / Giroux Rd',53.644247,-113.667427
 117,'0117','Muir Dr / St-Vital Av',53.639837,-113.62683
-118,'0118','No. 135 / Erin Rdg Dr',53.665854,-113.615998
+118,'0118','No 135 / Erin Rdg Dr',53.665854,-113.615998
 119,'0119','Youville Home / St-Vital Av',53.638043,-113.631555
 120,'0120','Norwod Cr / North Rdg Dr',53.651382,-113.671743
 121,'0121','Mont Clare Pl / St-Vital Av',53.636513,-113.633898
@@ -137,9 +137,9 @@
 218,'0218','Lacombe Dr / Leveque Way',53.640428,-113.663927
 219,'0219','Fairchild Dr / Fairview Blvd',53.63614,-113.607001
 220,'0220','Villeange Rd / Versailles Ave',53.638645,-113.672263
-221,'0221','Franklin Pl / SW.C. Av',53.638202,-113.605187
+221,'0221','Franklin Pl / Sir Winston Churchill Av',53.638202,-113.605187
 222,'0222','Versilles Ave / Giroux Rd',53.639886,-113.672393
-223,'0223','Flagstone Cr / SW.C. Av',53.63973,-113.603235
+223,'0223','Flagstone Cr / Sir Winston Churchill Av',53.63973,-113.603235
 224,'0224','Vevada Pl / Giroux Rd',53.6403,-113.672118
 225,'0225','Wimbleton Cr / Woodlands Rd',53.644066,-113.597539
 226,'0226','Botanical Pk / Sturgeon Rd',53.651989,-113.598468
@@ -161,9 +161,9 @@
 251,'0251','Windsor Cr / Westwood Dr',53.644891,-113.607353
 252,'0252','Enjoy Ctr',53.611104,-113.646003
 255,'0255','Woodsland Cl / Woodlands Rd',53.644406,-113.598416
-257,'0257','Brunswick Cr / SW.C. Av',53.639852,-113.603689
+257,'0257','Brunswick Cr / Sir Winston Churchill Av',53.639852,-113.603689
 258,'0258','Renault Cr / Riel Dr',53.615588,-113.648071
-259,'0259','Franklin Pl / SW.C. Av',53.638331,-113.605502
+259,'0259','Franklin Pl / Sir Winston Churchill Av',53.638331,-113.605502
 261,'0261','Lorne Akin School / Fairview Blvd',53.635713,-113.607014
 267,'0267','Fermont St / Falstaff Av',53.632104,-113.59874
 271,'0271','Hebert Rd / Cunningham Rd',53.628896,-113.602068
@@ -174,7 +174,7 @@
 281,'0281','Tennis Ct / Sunset Blvd',53.625715,-113.613024
 283,'0283','Salisbury Av / Sunset Blvd',53.624527,-113.610464
 285,'0285','Sunset Blvd / Hebert Rd',53.622866,-113.607995
-289,'0289','Cunningham Rd / SW.C. Av',53.63296,-113.618434
+289,'0289','Cunningham Rd / Sir Winston Churchill Av',53.63296,-113.618434
 291,'0291','Finch Cr / Forest Dr',53.635184,-113.597883
 299,'0299','Campbell Rd / Boudreau Rd',53.635932,-113.580986
 301,'0301','Chisholm Av / Carnegie Dr',53.636933,-113.574514
@@ -201,7 +201,7 @@
 343,'0343','Transit Garage / Carnegie Dr',53.63894,-113.575985
 345,'0345','Boudreau Rd / Carnegie Dr',53.636592,-113.574829
 351,'0351','Fernwood Cr / Forest Dr',53.635033,-113.598341
-353,'0353','Cunningham Rd / SW.C. Av',53.63289,-113.61923
+353,'0353','Cunningham Rd / Sir Winston Churchill Av',53.63289,-113.61923
 363,'0363','Wolcott Pl / Willoughby Dr',53.649727,-113.601158
 365,'0365','Waverly Dr / Willoughby Dr',53.648773,-113.597224
 367,'0367','Wentworth Cr / Willoughby Dr',53.647103,-113.59831
@@ -227,8 +227,8 @@
 431,'0431','Dorchester Dr / Deer Rdg Dr',53.65501,-113.642049
 435,'0435','Erin Rdg Rd / Erin Rdg Dr',53.657337,-113.624585
 439,'0439','Lennox Dr / St-Albert Rd',53.647697,-113.627779
-459,'0459','Kingswood Dr / SW.C. Av',53.650348,-113.594478
-461,'0461','Sturgeon Rd / SW.C. Av',53.651985,-113.596044
+459,'0459','Kingswood Dr / Sir Winston Churchill Av',53.650348,-113.594478
+461,'0461','Sturgeon Rd / Sir Winston Churchill Av',53.651985,-113.596044
 463,'0463','Kings Ct / Kingswood Dr',53.654408,-113.59568
 465,'0465','Kingston Cl / Kingswood Dr',53.653981,-113.592787
 467,'0467','Kingsbridge Cl / Kingswood Dr',53.652039,-113.592272
@@ -248,8 +248,8 @@
 525,'0525','Holmgren Cr / Harwood Dr',53.607587,-113.635168
 557,'0557','Hampton Cr / Harwood Dr',53.607699,-113.631532
 569,'0569','Mission Av / McKenney Av',53.638317,-113.645225
-571,'0571','S.W.C. Av / Poirier Av',53.643828,-113.592986
-573,'0573','Poirier Av / SW.C. Av',53.644362,-113.592798
+571,'0571','Sir Winston Churchill Av / Poirier Av',53.643828,-113.592986
+573,'0573','Poirier Av / Sir Winston Churchill Av',53.644362,-113.592798
 575,'0575','Kirkwood Dr / Poirier Av',53.642908,-113.591001
 577,'0577','Parkwood Dr / Poirier Av',53.642344,-113.590419
 579,'0579','Primrose Pl / Parkwood Dr',53.640974,-113.594517
@@ -261,7 +261,7 @@
 597,'0597','Levasseur Rd / Gervais Rd',53.614691,-113.614939
 599,'0599','Hebert Rd / Sunset Blvd',53.62348,-113.607725
 603,'0603','Campbell Rd / Poirier Av',53.642401,-113.579146
-609,'0609','Perron St / SW.C. Av',53.631907,-113.622864
+609,'0609','Perron St / Sir Winston Churchill Av',53.631907,-113.622864
 611,'0611','Giroux Rd / St-Albert Rd',53.653491,-113.62953
 613,'0613','Phanton Rdg / Poirier Av',53.64217,-113.579728
 617,'0617','Westwood Dr / Boudreau Rd',53.644447,-113.608625
@@ -292,7 +292,7 @@
 693,'0693','Ironwood Pt / Bellerose Dr',53.649571,-113.618752
 695,'0695','Edward Way / Bellerose Dr',53.655632,-113.614748
 703,'0703','Liberton Clinic / St-Albert Rd',53.645001,-113.626843
-705,'0705','A.G.L.C. / Corriveau Av',53.642269,-113.567331
+705,'0705','AGLC / Corriveau Av',53.642269,-113.567331
 711,'0711','Bellerose High / Giroux Rd',53.647513,-113.656523
 713,'0713','Giroux Rd / Liberton Dr',53.653347,-113.63208
 715,'0715','Giroux Rd / Dunbar St',53.653978,-113.632073
@@ -362,11 +362,11 @@
 857,'0857','Kingsway Dr / Kingswood Dr',53.650944,-113.591813
 859,'0859','Kingsview Pt / Kingswood Dr',53.654172,-113.592584
 861,'0861','Kings Gt / Kingswood Dr',53.654617,-113.595594
-863,'0863','S.W.C. Av / Waverly Dr',53.649859,-113.594566
+863,'0863','Sir Winston Churchill Av / Waverly Dr',53.649859,-113.594566
 865,'0865','Waverly Dr / Willoughby Dr',53.649281,-113.597411
 867,'0867','Wagner Pl / Willoughby Dr',53.649882,-113.601042
 869,'0869','Wakefield Blvd / Willoughby Dr',53.648107,-113.604006
-871,'0871','S.W.C. Av / Pk Av',53.642712,-113.596881
+871,'0871','Sir Winston Churchill Av / Pk Av',53.642712,-113.596881
 873,'0873','Parkwood Dr / Pk Av',53.641463,-113.594844
 875,'0875','Primeau Ln / Parkwood Dr',53.638943,-113.59262
 877,'0877','Palladium Pt / Parkwood Dr',53.638674,-113.591089
@@ -381,7 +381,7 @@
 895,'0895','Forest Dr / Fairview Blvd',53.633297,-113.607189
 897,'0897','Forest Dr / Fairview Blvd',53.633481,-113.607321
 899,'0899','Inglewood Dr / St-Albert Rd',53.64843,-113.627482
-901,'0901','Pk Av / SW.C. Av',53.643083,-113.596108
+901,'0901','Pk Av / Sir Winston Churchill Av',53.643083,-113.596108
 903,'0903','Laval Dr / Liberton Dr',53.65283,-113.631512
 905,'0905','Lorraine Cr / Larose Dr',53.647788,-113.646939
 907,'0907','Lorraine Cr / Larose Dr',53.64769,-113.647688
@@ -418,13 +418,13 @@
 961,'0961','Vlg / Transit Stn',53.621878,-113.615124
 962,'0962','Vlg / Transit Stn',53.622027,-113.615286
 965,'0965','Bellerose Dr / Oakland Way',53.662561,-113.613583
-971,'0971','St-Albert Ctr / Exchange',53.640455,-113.623358
-972,'0972','St-Albert Ctr / Exchange',53.640419,-113.623609
-973,'0973','St-Albert Ctr / Exchange',53.6401,-113.623869
-974,'0974','St-Albert Ctr / Exchange',53.639049,-113.62349
+971,'0971','St-Albert Ctr / Exch',53.640455,-113.623358
+972,'0972','St-Albert Ctr / Exch',53.640419,-113.623609
+973,'0973','St-Albert Ctr / Exch',53.6401,-113.623869
+974,'0974','St-Albert Ctr / Exch',53.639049,-113.62349
 981,'0981','Eldorado Dr / Erin Rdg Dr',53.659562,-113.625917
 983,'0983','Enfield Pl / Erin Rdg Dr',53.661897,-113.627354
-987,'0987','Sturgeon Rd / SW.C. Av',53.652018,-113.596373
+987,'0987','Sturgeon Rd / Sir Winston Churchill Av',53.652018,-113.596373
 989,'0989','Nelson Ct / Hogan Rd',53.648078,-113.66502
 991,'0991','Bellerose Dr / Erin Rdg Dr',53.665122,-113.609731
 993,'0993','Bellerose Dr / Erin Rdg Dr',53.664772,-113.610046
@@ -438,8 +438,8 @@
 1107,'1107','111 Av / RAH Transit Ctr',53.558438,-113.502034
 1120,'1120','99 St / Jasper Ave (WB)',53.541474,-113.487903
 1123,'1123','103A Av / City Hall (WB)',53.546172,-113.489831
-1223,'1223','N.A.I.T. / 106 St (SB)',53.566982,-113.50323
-1227,'1227','N.A.I.T. / 106 St (NB)',53.567666,-113.502711
+1223,'1223','NAIT / 106 St (SB)',53.566982,-113.50323
+1227,'1227','NAIT / 106 St (NB)',53.567666,-113.502711
 1246,'1246','102 Ave / 100 St',53.543887,-113.490627
 1271,'1271','Jasper Ave / 105 St (EB)',53.540846,-113.499808
 1280,'1280','103A Av / 97 St(SB)',53.545957,-113.48715
@@ -480,7 +480,7 @@
 2844,'2844','116 St / 87 Av (EB)',53.522723,-113.528381
 2851,'2851','116 St / 87 Av (WB)',53.523028,-113.531123
 2882,'2882','112 St / 87 Av',53.522971,-113.52112
-5011,'5011','West Edm. Mall / Transit Stn',53.520666,-113.622961
+5011,'5011','West Edm Mall / Transit Stn',53.520666,-113.622961
 5083,'5083','118 Av / Groat Rd (SB)',53.568998,-113.549601
 5173,'5173','Yellowhead / St-Albert Trl (SB)',53.579737,-113.556269
 5206,'5206','Westmount / Transit Stn (NB)',53.561057,-113.55585
