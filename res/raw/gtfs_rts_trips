@@ -1,5 +1,7 @@
-20100,0,'Commuter',201
-20200,0,'Commuter',202
+20104,0,'Edm City Hall',201
+20103,0,'St Albert Exch Ctr',201
+20204,0,'Edm City Hall',202
+20203,0,'St Albert Exch Ctr',202
 20300,0,'St Albert',203
 20301,0,'U of Alberta',203
 20500,0,'St Albert',205
@@ -10,22 +12,30 @@
 21100,0,'MacEwan',211
 100100,0,'St Albert Exch Ctr',1001
 100101,0,'Vlg Transit Sta',1001
-100200,0,'Loop',1002
-100300,0,'Loop',1003
+100201,0,'Heritage Lks',1002
+100202,0,'Vlg Transit Sta',1002
+100301,0,'Grandin',1003
+100302,0,'Vlg Transit Sta',1003
 100400,0,'Clockwise',1004
 100500,0,'Counter-Clockwise',1005
-100600,0,'Loop',1006
+100602,0,'North Rdg',1006
+100601,0,'Vlg Transit Sta',1006
 100700,0,'Clockwise',1007
 100800,0,'Counter-Clockwise',1008
 100900,0,'St Albert Exch Ctr',1009
 100901,0,'Vlg Transit Sta',1009
-101000,0,'Loop',1010
+101002,0,'Pineview',1010
+101001,0,'Vlg Transit Sta',1010
 101100,0,'St Albert Exch Ctr',1011
 101101,0,'Vlg Transit Sta',1011
-101200,0,'Loop',1012
-101300,0,'Loop',1013
-101400,0,'Loop',1014
-102100,0,'Loop',1021
+101201,0,'Campbell',1012
+101202,0,'Vlg Transit Sta',1012
+101304,0,'Vlg Transit Sta',1013
+101303,0,'Woodlands',1013
+101403,0,'Costco',1014
+101404,0,'Vlg Transit Sta',1014
+102102,0,'Enjoy Ctr',1021
+102101,0,'Vlg Transit Sta',1021
 200100,0,'Botanical Pk',2001
 200101,0,'Enjoy Ctr',2001
 600100,0,'Farmers'' Mkt',6001
