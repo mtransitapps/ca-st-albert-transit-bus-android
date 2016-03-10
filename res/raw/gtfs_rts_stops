@@ -140,7 +140,7 @@
 221,'0221','Franklin Pl / Sir Winston Churchill Av',53.638202,-113.605187
 222,'0222','Versailles Ave / Giroux Rd',53.639886,-113.672393
 223,'0223','Flagstone Cr / Sir Winston Churchill Av',53.63973,-113.603235
-224,'0224','Vevada Pl / Giroux Rd',53.6403,-113.672118
+224,'0224','Nevada Pl / Giroux Rd',53.6403,-113.672118
 225,'0225','Wimbleton Cr / Woodlands Rd',53.644066,-113.597539
 227,'0227','Neil Ross Sch / Woodlands Rd',53.646199,-113.603437
 228,'0228','Enjoy Ctr North',53.612468,-113.646657
@@ -226,6 +226,7 @@
 431,'0431','Dorchester Dr / Deer Rdg Dr',53.65501,-113.642049
 435,'0435','Erin Rdg Rd / Erin Rdg Dr',53.657337,-113.624585
 439,'0439','Lennox Dr / St Albert Rd',53.647697,-113.627779
+444,'444','Grange Dr / Gervais Rd',53.619736,-113.613248
 459,'0459','Kingswood Dr / Sir Winston Churchill Av',53.650348,-113.594478
 461,'0461','Sturgeon Rd / Sir Winston Churchill Av',53.651985,-113.596044
 463,'0463','Kings Ct / Kingswood Dr',53.654408,-113.59568
@@ -533,5 +534,4 @@
 8936,'8936','107 Av / 170 St (NB)',53.553718,-113.615081
 8944,'8944','176 St / 107 Av (EB)',53.553171,-113.623773
 8952,'8952','107 Av / 178 St (SB)',53.552953,-113.627517
-10000,'10000','Grange Dr / Gervais Rd',53.619736,-113.613248
 55848,'55848','Stony Plain Rd / 178 St (NB)',53.539865,-113.627164
