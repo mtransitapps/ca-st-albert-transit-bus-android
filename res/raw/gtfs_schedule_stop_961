@@ -1,2 +1,6 @@
-'SPGWKD',20703,164700,,'',7000,,''
-'SPGWKD',21100,64500,0,'Edmonton Express',5500,0,'Edmonton Express',1500,0,'Edmonton Express',84000,0,'St Albert Express',9000,0,'St Albert Express',7000,0,'St Albert Express'
+'FallClass1',20703,164700,,'',7000,,'',3000,,''
+'FallClass2',20703,164700,,'',7000,,'',3000,,''
+'FallClass3',20703,164700,,'',7000,,'',3000,,''
+'FallClass1',21100,64500,0,'Edmonton Express',5500,0,'Edmonton Express',1500,0,'Edmonton Express',88500,0,'St Albert Express',4700,0,'St Albert Express',7000,0,'St Albert Express',3000,0,'St Albert Express',7000,0,'St Albert Express'
+'FallClass2',21100,64500,0,'Edmonton Express',5500,0,'Edmonton Express',1500,0,'Edmonton Express',88500,0,'St Albert Express',4700,0,'St Albert Express',7000,0,'St Albert Express',3000,0,'St Albert Express',7000,0,'St Albert Express'
+'FallClass3',21100,64500,0,'Edmonton Express',5500,0,'Edmonton Express',1500,0,'Edmonton Express',88500,0,'St Albert Express',4700,0,'St Albert Express',7000,0,'St Albert Express',3000,0,'St Albert Express',7000,0,'St Albert Express'
