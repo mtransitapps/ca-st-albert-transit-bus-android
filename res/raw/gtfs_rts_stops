@@ -79,6 +79,7 @@
 96,'0096','No 2a / Riel Dr',53.626756,-113.635946
 98,'0098','Greshan Blvd / Sir Winston Churchill Av',53.627284,-113.632678
 100,'0100','Tache St / Sir Winston Churchill Av',53.629745,-113.628985
+102,'0102','St Albert Trl / Boudreau Rd (NB)',53.654457402,-113.629276935
 103,'0103','Morgan Cr / Mission Av',53.636861,-113.643723
 104,'0104','Carnegie Dr / Corriveau Av',53.642263,-113.574969
 105,'0105','St Vital Ave / Mission Av',53.633094,-113.638067
@@ -142,7 +143,6 @@
 223,'0223','Flagstone Cr / Sir Winston Churchill Av',53.63973,-113.603235
 224,'0224','Nevada Pl / Giroux Rd',53.6403,-113.672118
 225,'0225','Wimbleton Cr / Woodlands Rd',53.644066,-113.597539
-226,'0226','Botanical Pk / Sturgeon Rd',53.651989,-113.598468
 227,'0227','Neil Ross Sch / Woodlands Rd',53.646199,-113.603437
 228,'0228','Enjoy Ctr North',53.612468,-113.646657
 229,'0229','Wakefield Blvd / Westwood Dr',53.645022,-113.607579
@@ -160,6 +160,7 @@
 250,'0250','Element Dr N / Costco',53.669912,-113.633048
 251,'0251','Windsor Cr / Westwood Dr',53.644891,-113.607353
 252,'0252','Enjoy Ctr',53.611104,-113.646003
+254,'0254','St Anne / St Thomas',53.632246,-113.627214
 255,'0255','Woodsland Cl / Woodlands Rd',53.644406,-113.598416
 257,'0257','Brunswick Cr / Sir Winston Churchill Av',53.639852,-113.603689
 258,'0258','Renault Cr / Riel Dr',53.615588,-113.648071
