@@ -4,8 +4,6 @@
 20203,0,'St Albert Exch Ctr',202
 20300,0,'St Albert',203
 20301,0,'U of Alberta',203
-20403,0,'St Albert',204
-20404,0,'U of Alberta',204
 20500,0,'St Albert',205
 20501,0,'West Edm Mall',205
 20703,0,'St Albert Exch Ctr',207
@@ -39,3 +37,9 @@
 101404,0,'Vlg Transit Sta',1014
 102102,0,'Enjoy Ctr',1021
 102101,0,'Vlg Transit Sta',1021
+200100,0,'Botanical Pk',2001
+200101,0,'Enjoy Ctr',2001
+600100,0,'Farmer''s Mkt',6001
+600101,0,'Vlg Transit Sta',6001
+80300000,0,'Festival',803000
+80300001,0,'VTS',803000
