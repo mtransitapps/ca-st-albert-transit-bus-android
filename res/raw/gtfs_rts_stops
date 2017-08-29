@@ -92,7 +92,6 @@
 113,'0113','Court House / St Anne St',53.632186,-113.627553
 114,'0114','Giroux Rd / North Rdg Dr',53.644229,-113.668598
 115,'0115','Grandin Mall / Grandin Rd',53.629843,-113.626488
-116,'0116','North Rdg Dr / Giroux Rd',53.644247,-113.667427
 118,'0118','No 135 / Erin Rdg Dr',53.665854,-113.615998
 119,'0119','Youville Home / St-Vital Av',53.638043,-113.631555
 120,'0120','Norwod Cr / North Rdg Dr',53.651382,-113.671743
@@ -111,18 +110,13 @@
 169,'0169','Madison Av / St Albert Rd',53.638667,-113.624767
 173,'0173','St Anne St / St Albert Rd',53.635254,-113.623639
 175,'0175','Grn Grv Dr / St Albert Rd',53.62733,-113.618577
-178,'0178','Lafranchise Ct / Lacombe Dr',53.645406,-113.661916
-180,'0180','Lauralcrest Pl / Lacombe Dr',53.643264,-113.66256
-182,'0182','Lafleur Dr / Lacombe Dr',53.642489,-113.663063
 195,'0195','Sunnyside Cr / Sunset Blvd',53.624219,-113.609428
 197,'0197','Sunset Blvd / Vital Grandin School',53.626015,-113.61317
 198,'0198','North Star Close / North Rdg Dr',53.655861,-113.666866
 199,'0199','Sheridan Dr / Sunset Blvd',53.628128,-113.616135
 201,'0201','Salisbury Av / Sunset Blvd',53.631278,-113.615517
 203,'0203','Sunset Blvd / Cunningham Rd',53.632336,-113.613358
-204,'0204','Giroux Rd / Lacombe Dr',53.640688,-113.668933
 205,'0205','Forest Dr / Cunningham Rd',53.631112,-113.610466
-206,'0206','Loiselle Way / Lacombe Dr',53.640655,-113.668358
 207,'0207','Leo Nickerson / Cunningham Rd',53.629738,-113.607282
 208,'0208','Chevigny St / Corriveau Av',53.642266,-113.570256
 209,'0209','Stanley Dr / Cunningham Rd',53.628682,-113.602663
@@ -132,8 +126,6 @@
 213,'0213','Hebert Rd / Falstaff Av',53.631844,-113.597747
 214,'0214','North Rdg Dr / Noble Close',53.655057,-113.671568
 215,'0215','Fair Oaks Dr / Forest Dr',53.632821,-113.60273
-216,'0216','Lacombe Dr / Leveque Way',53.64059,-113.66477
-218,'0218','Lacombe Dr / Leveque Way',53.640428,-113.663927
 219,'0219','Fairchild Dr / Fairview Blvd',53.63614,-113.607001
 220,'0220','Villeange Rd / Versailles Ave',53.638645,-113.672263
 221,'0221','Franklin Pl / Sir Winston Churchill Av',53.638202,-113.605187
@@ -180,6 +172,7 @@
 299,'0299','Campbell Rd / Boudreau Rd',53.635932,-113.580986
 300,'0300','Element Dr / Neil Ross Rd',53.672036,-113.634035
 301,'0301','Chisholm Av / Carnegie Dr',53.636933,-113.574514
+302,'0302','Giroux Rd / Lacombe Dr (EB)',53.641499,-113.669761
 303,'0303','Transit Garage / Carnegie Dr',53.639275,-113.57571
 304,'0304','Enjoy Ctr South (NB)',53.611211,-113.645682
 305,'0305','Carnegie Dr / Poirier Av',53.642414,-113.57667
@@ -191,8 +184,10 @@
 315,'0315','Abbey Cr / Arlington Dr',53.629387,-113.591959
 317,'0317','Alderwood Blvd / Arlington Dr',53.627017,-113.593503
 319,'0319','Addison Cr / Arlington Dr',53.625092,-113.597021
+320,'0320','Giroux Rd / North Rdg Dr',53.643713,-113.668391
 321,'0321','Attwood Dr / Arlington Dr',53.624337,-113.602761
 323,'0323','Sunset Blvd / Hebert Rd',53.623477,-113.6068
+324,'0324','Giroux Rd / Lacombe Dr (WB)',53.641125,-113.670557
 325,'0325','Attwood Dr / Arlington Dr',53.62478,-113.60413
 327,'0327','Ash Cr / Arlington Dr',53.625201,-113.596516
 329,'0329','Alderwood Blvd / Arlington Dr',53.626928,-113.593321
@@ -216,6 +211,7 @@
 387,'0387','Keenooshayo Sch / Woodlands Rd',53.648306,-113.603611
 389,'0389','Woodlands Rd / Willoughby Dr',53.645638,-113.600385
 391,'0391','Lexington Dr / Giroux Rd',53.653138,-113.635407
+393,'0393','Giroux Rd / Liberton Dr (EB)',53.653613646,-113.631592069
 397,'0397','Ironwood Dr / Bellerose Dr',53.648958,-113.620044
 399,'0399','Inglewood Dr / Bellerose Dr',53.645925,-113.622362
 407,'0407','Arcand Dr / Arlington Dr',53.623346,-113.59945
@@ -298,7 +294,6 @@
 703,'0703','Liberton Clinic / St Albert Trl',53.645001,-113.626843
 705,'0705','AGLC / Corriveau Av',53.642269,-113.567331
 711,'0711','Bellerose High / Giroux Rd',53.647513,-113.656523
-713,'0713','Giroux Rd / Liberton Dr',53.653347,-113.63208
 715,'0715','Giroux Rd / Dunbar St',53.653978,-113.632073
 717,'0717','Bellerose High / Giroux Rd',53.647401,-113.655901
 719,'0719','Dorchester Dr / Deer Rdg Dr',53.654396,-113.658431
@@ -422,6 +417,10 @@
 961,'0961','Vlg Transit Sta',53.621878,-113.615124
 962,'0962','Vlg Transit Sta',53.622027,-113.615286
 965,'0965','Bellerose Dr / Oakland Way',53.662561,-113.613583
+971,'0971','St Albert Ctr Exch',53.640455,-113.623358
+972,'0972','St Albert Ctr Exch',53.640419,-113.623609
+973,'0973','St Albert Ctr Exch',53.6401,-113.623869
+974,'0974','St Albert Ctr Exch',53.639049,-113.62349
 981,'0981','Eldorado Dr / Erin Rdg Dr',53.659562,-113.625917
 983,'0983','Enfield Pl / Erin Rdg Dr',53.661897,-113.627354
 987,'0987','Sturgeon Rd / Sir Winston Churchill Av',53.652018,-113.596373
@@ -529,14 +528,5 @@
 8944,'8944','176 St / 107 Av (EB)',53.553199421537,-113.623716530736
 8952,'8952','107 Av / 178 St (SB)',53.5528786647134,-113.627461675913
 10000,'A','TEMP SACE BAY A',53.640086,-113.625721
-20000,'B','TEMP SACE BAY B',53.639715,-113.6267
 30000,'C','TEMP SACE BAY C',53.639837,-113.62683
-40000,'D','TEMP SACE BAY D',53.640061,-113.626708
-50000,'E','TEMP SACE BAY E',53.640212,-113.626613
 55848,'55848','Stony Plain Rd / 178 St (NB)',53.539865,-113.627164
-60000,'F','TEMP SACE BAY F',53.640223,-113.62689
-70000,'G','TEMP SACE BAY G',53.640543,-113.626953
-80000,'H','TEMP SACE BAY H',53.640433,-113.627119
-90000,'I','TEMP SACE BAY I',53.640774,-113.627189
-100000,'J','TEMP SACE BAY J',53.640701,-113.627406
-110000,'K','TEMP SACE BAY K',53.641004,-113.627439
