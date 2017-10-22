@@ -5,7 +5,7 @@ St Albert Transit buses for MonTransit.
 Schedule…
 ----------
 What's new in this version?:
-Schedule from September 3, 2017 to October 28, 2017.
+Schedule from October 15, 2017 to April 28, 2018.
 ----------
 Full description:
 This app adds St Albert Transit buses information to MonTransit.
