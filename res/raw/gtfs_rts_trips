@@ -19,12 +19,12 @@
 100202,0,'Vlg Transit Sta',1002
 100301,0,'Grandin',1003
 100302,0,'Vlg Transit Sta',1003
-100400,0,'Clockwise',1004
-100500,0,'Counter-Clockwise',1005
+100400,0,'Loop',1004
+100500,0,'Loop',1005
 100602,0,'North Rdg',1006
 100601,0,'St Albert Exch Ctr',1006
-100700,0,'Clockwise',1007
-100800,0,'Counter-Clockwise',1008
+100700,0,'Loop',1007
+100800,0,'Loop',1008
 100900,0,'St Albert Exch Ctr',1009
 100901,0,'Vlg Transit Sta',1009
 101002,0,'Pineview',1010
@@ -39,7 +39,3 @@
 101404,0,'Vlg Transit Sta',1014
 102102,0,'Enjoy Ctr',1021
 102101,0,'Vlg Transit Sta',1021
-200100,0,'Botanical Pk',2001
-200101,0,'Enjoy Ctr',2001
-600100,0,'Farmers'' Mkt',6001
-600101,0,'St Albert Exch',6001

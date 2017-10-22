@@ -85,13 +85,14 @@
 106,'0106','Naples Way / North Rdg Dr',53.645982,-113.671372
 107,'0107','Mill Dr / Mission Av',53.633443,-113.631584
 108,'0108','Nicola Rd / North Rdg Dr',53.647934,-113.671172
-109,'0109','Chateau Mission Crt / Mission Av',53.635701,-113.628219
+109,'0109','Chateau Mission Crt / Mission Av',53.63523,-113.628942
 110,'0110','Naples Way / North Rdg Dr',53.645463,-113.671271
 111,'0111','Perron St / St Anne St',53.63452,-113.627046
 112,'0112','Napoleon Cr / North Rdg Dr',53.651656,-113.672112
 113,'0113','Court House / St Anne St',53.632186,-113.627553
 114,'0114','Giroux Rd / North Rdg Dr',53.644229,-113.668598
 115,'0115','Grandin Mall / Grandin Rd',53.629843,-113.626488
+117,'0117','Muir Dr / St-Vital Av',53.639837,-113.62683
 118,'0118','No 135 / Erin Rdg Dr',53.665854,-113.615998
 119,'0119','Youville Home / St-Vital Av',53.638043,-113.631555
 120,'0120','Norwod Cr / North Rdg Dr',53.651382,-113.671743
@@ -122,9 +123,9 @@
 209,'0209','Stanley Dr / Cunningham Rd',53.628682,-113.602663
 210,'0210','North Star Close / North Rdg Dr',53.655673,-113.666079
 211,'0211','Akinsdale Arena / Hebert Rd',53.629526,-113.599392
-212,'0212','North Rdg Dr / Noble Close',53.655136,-113.670481
+212,'0212','North Rdg Dr / Noble Close',53.655317,-113.670415
 213,'0213','Hebert Rd / Falstaff Av',53.631844,-113.597747
-214,'0214','North Rdg Dr / Noble Close',53.655057,-113.671568
+214,'0214','North Rdg Dr / Noble Close',53.654923,-113.671394
 215,'0215','Fair Oaks Dr / Forest Dr',53.632821,-113.60273
 219,'0219','Fairchild Dr / Fairview Blvd',53.63614,-113.607001
 220,'0220','Villeange Rd / Versailles Ave',53.638645,-113.672263
@@ -133,7 +134,6 @@
 223,'0223','Flagstone Cr / Sir Winston Churchill Av',53.63973,-113.603235
 224,'0224','Nevada Pl / Giroux Rd',53.6403,-113.672118
 225,'0225','Wimbleton Cr / Woodlands Rd',53.644066,-113.597539
-226,'0226','Botanical Pk / Sturgeon Rd',53.651989,-113.598468
 227,'0227','Neil Ross Sch / Woodlands Rd',53.646199,-113.603437
 228,'0228','Enjoy Ctr North (SB)',53.612468,-113.646657
 229,'0229','Wakefield Blvd / Westwood Dr',53.645022,-113.607579
@@ -207,6 +207,7 @@
 371,'0371','Mission Av / St-Vital Av',53.633979,-113.63784
 373,'0373','Mt Royal Dr / St-Vital Av',53.636464,-113.633687
 375,'0375','Youville Home / St-Vital Av',53.637804,-113.63169
+377,'0377','St Albert Rd / St-Vital Av',53.640086,-113.625721
 385,'0385','Woodlands Rd / Westwood Dr',53.646627,-113.604821
 387,'0387','Keenooshayo Sch / Woodlands Rd',53.648306,-113.603611
 389,'0389','Woodlands Rd / Willoughby Dr',53.645638,-113.600385
@@ -392,7 +393,7 @@
 919,'0919','Gloucester Dr / Gervais Rd',53.619847,-113.611287
 921,'0921','Grange Dr / Gervais Rd',53.618838,-113.612959
 923,'0923','Goodridge Dr / Gervais Rd',53.617877,-113.613664
-925,'0925','Save On Foods / St Albert Trl',53.661839,-113.631861
+925,'0925','Save On Foods / St Albert Trl',53.661088,-113.631588
 927,'0927','Nelson Ct / Hogan Rd',53.647527,-113.665386
 929,'0929','Dunfield Cr / Hogan Rd',53.649796,-113.664152
 931,'0931','Opal Ct / Bellerose Dr',53.654397,-113.613749
@@ -527,6 +528,4 @@
 8936,'8936','107 Av / 170 St (NB)',53.553718,-113.615081
 8944,'8944','176 St / 107 Av (EB)',53.553199421537,-113.623716530736
 8952,'8952','107 Av / 178 St (SB)',53.5528786647134,-113.627461675913
-10000,'A','TEMP SACE BAY A',53.640086,-113.625721
-30000,'C','TEMP SACE BAY C',53.639837,-113.62683
 55848,'55848','Stony Plain Rd / 178 St (NB)',53.539865,-113.627164
