@@ -3,14 +3,12 @@
 20201,0,'St Albert Ctr Exch',202
 20300,0,'Kingsway RAH Transit Ctr',203
 20301,0,'St Albert Ctr Exch',203
-20400,0,'Government Transit Ctr',204
-20401,0,'St Albert Ctr Exch',204
 20501,0,'Vlg Transit Sta',205
-20500,0,'West Edmonton Mall Transit Ctr',205
+20500,0,'West Edmonton Mall',205
 20700,0,'St Albert',207
 20800,0,'Government Transit Ctr',208
 20801,0,'St Albert Ctr Exch',208
-21100,0,'Edmonton',211
+21100,0,'Edmonton Express',211
 21101,0,'St Albert Ctr Exch',211
 100100,0,'St Albert Exch Ctr',1001
 100101,0,'Vlg Transit Sta',1001
@@ -31,7 +29,7 @@
 101001,0,'Vlg Transit Sta',1010
 101100,0,'St Albert Exch Ctr',1011
 101101,0,'Vlg Transit Sta',1011
-101201,0,'Campbell Business Pk',1012
+101201,0,'Campbell',1012
 101200,0,'Vlg Transit Sta',1012
 101304,0,'Vlg Transit Sta',1013
 101303,0,'Woodlands',1013
@@ -39,3 +37,5 @@
 101404,0,'Vlg Transit Sta',1014
 102102,0,'Enjoy Ctr',1021
 102101,0,'Vlg Transit Sta',1021
+600101,0,'St Albert Ctr Exch',6001
+600100,0,'St Albert Farmer''s Mkt',6001
