@@ -1,4 +1,2 @@
-'SPGSAT',20301,102700,0,'Vlg Transit Sta',10000,0,'Vlg Transit Sta',10000,0,'Vlg Transit Sta',10000,0,'Vlg Transit Sta',10000,0,'Vlg Transit Sta',10000,0,'Vlg Transit Sta',10000,0,'Vlg Transit Sta',10000,0,'Vlg Transit Sta'
-'SPGSATFAR',20301,102700,0,'Vlg Transit Sta',10000,0,'Vlg Transit Sta',10000,0,'Vlg Transit Sta',10000,0,'Vlg Transit Sta',10000,0,'Vlg Transit Sta',10000,0,'Vlg Transit Sta',10000,0,'Vlg Transit Sta',10000,0,'Vlg Transit Sta'
-'SPGWKD',20301,70000,,'',600,,'',2200,0,'Vlg Transit Sta',8200,0,'Vlg Transit Sta',2300,,'',10400,0,'Vlg Transit Sta',9700,0,'Vlg Transit Sta',10000,0,'Vlg Transit Sta',10000,0,'Vlg Transit Sta',10000,0,'Vlg Transit Sta',10700,,'',10000,,'',7000,,'',3000,,'',8700,,'',3100,,''
-'SPGWKDCL',20301,70000,,'',600,,'',2200,0,'Vlg Transit Sta',8200,0,'Vlg Transit Sta',2300,,'',10400,0,'Vlg Transit Sta',9700,0,'Vlg Transit Sta',10000,0,'Vlg Transit Sta',10000,0,'Vlg Transit Sta',10000,0,'Vlg Transit Sta',10700,,'',10000,,'',7000,,'',3000,,'',8700,,'',3100,,''
+'201904STAT-Blocking-Saturday-06',20301,112700,,'',10000,,'',10000,,'',10000,,'',10000,,'',10000,,'',10000,,''
+'201904STAT-RMKBLK-Weekday-08',20301,70000,,'',600,,'',2200,,'',8200,,'',2300,,'',10400,,'',9700,,'',10000,,'',10000,,'',10000,,'',10700,,'',10000,,'',7000,,'',3000,,'',8700,,'',3100,,''
