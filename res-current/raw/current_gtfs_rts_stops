@@ -134,7 +134,6 @@
 223,'0223','SWC Ave & Flagstone Cres',53.639753,-113.603339
 224,'0224','Giroux Rd & Versailles Ave',53.640145,-113.672269
 225,'0225','Woodlands Rd & Wimbleton Cres',53.644089,-113.597646
-226,'0226','Sturgeon Rd & Botanical Pk',53.651402,-113.600409
 227,'0227','Woodlands Rd & Westwood Dr',53.646184,-113.60347
 228,'0228','Riel Dr & Enjoy Ctr North',53.612559,-113.646617
 229,'0229','Westwood Dr & Windsor Cres',53.644859,-113.607704
@@ -194,6 +193,7 @@
 329,'0329','Arlington Dr & Alderwood Blvd',53.626942,-113.593319
 331,'0331','Arlington Dr & Abbey Cres',53.629376,-113.591736
 333,'0333','Akins Dr & Arbor Cres',53.630507,-113.587365
+334,'0334','Versailles Ave & Villemagne Rd',53.638227,-113.672426
 335,'0335','Akins Dr & Amherst Cres',53.63421,-113.583631
 337,'0337','Page Dr & Princeton Cres',53.637747,-113.58367
 339,'0339','Pineview Dr & Poirier Ave',53.641479,-113.58233
@@ -489,8 +489,6 @@
 6272,'6272','St Albert Trl & 128 Ave',53.585088,-113.560761
 6273,'6273','St Albert Trl & 142 Ave',53.602579,-113.578163
 6297,'6297','St Albert Trl & 146 Ave',53.606479,-113.582308
-6377,'6377','St Albert Trl & 146 Ave',53.606555,-113.581957
-6381,'6381','St Albert Trl & Campbell Rd',53.612248,-113.591827
 6388,'6388','St Albert Trl & 130 Ave',53.58882,-113.564173
 6424,'6424','St Albert Trl & 156 St',53.611125,-113.590507
 6488,'6488','St Albert Trl & 134 Ave',53.59435,-113.569954

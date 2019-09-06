@@ -4,6 +4,8 @@
 20201,0,'St Albert',202
 20300,0,'Kingsway TC',203
 20301,0,'St Albert',203
+20400,0,'Gov Ctr Express',204
+20401,0,'St Albert Express',204
 20500,0,'St Albert',205
 20501,0,'West Edm',205
 20700,0,'St Albert Express',207
@@ -34,10 +36,6 @@
 101303,0,'Woodlands',1013
 101400,0,'St Albert North',1014
 101401,0,'Vlg Transit Sta',1014
-101500,0,'Dial A Bus East',1015
-101600,0,'Dial A Bus West',1016
 102102,0,'Enjoy Ctr',1021
 102101,0,'Vlg Transit Sta',1021
-200100,0,'Botanical Pk',2001
-200101,0,'Enjoy Ctr',2001
 600101,0,'Farmers Mkt',6001
