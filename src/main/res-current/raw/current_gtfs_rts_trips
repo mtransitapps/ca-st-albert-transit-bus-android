@@ -1,25 +1,25 @@
-20104,0,'Edm',201
+20104,0,'Edmonton',201
 20103,0,'St Albert',201
 20200,0,'Kingsway TC',202
 20201,0,'St Albert',202
 20300,0,'Kingsway TC',203
 20301,0,'St Albert',203
-20400,0,'Gov Ctr Express',204
-20401,0,'St Albert Express',204
-20500,0,'St Albert',205
-20501,0,'West Edm',205
-20700,0,'St Albert Express',207
-20801,0,'Gov Ctr Express',208
-20800,0,'St Albert Express',208
-21100,0,'Edmonton Express',211
-21101,0,'St Albert Express',211
+20400,0,'Gov Ctr',204
+20401,0,'St Albert',204
+20501,0,'St Albert',205
+20500,0,'West Edmonton',205
+20700,0,'St Albert',207
+20801,0,'Gov Ctr',208
+20800,0,'St Albert',208
+21100,0,'Edmonton',211
+21101,0,'St Albert',211
 100101,0,'St Albert Ctr',1001
 100100,0,'Vlg Transit Sta',1001
 100201,0,'Heritage Lks',1002
-100202,0,'Vlg Transit Sta',1002
+100202,0,'Vlg Sta',1002
 100301,0,'Grandin',1003
-100302,0,'Vlg Transit Sta',1003
-100400,0,'Clockwise',1004
+100302,0,'Vlg Sta',1003
+100400,0,'St Albert Ctr',1004
 100501,0,'Vlg Sta',1005
 100600,0,'North Rdg',1006
 100601,0,'St Albert Ctr',1006
@@ -27,17 +27,15 @@
 100801,0,'Erin Rdg',1008
 100901,0,'St Albert Ctr',1009
 100900,0,'Vlg Transit Sta',1009
-101002,0,'Pineview',1010
-101001,0,'Vlg Transit Sta',1010
-101100,0,'St Albert Exch Ctr',1011
+101002,0,'Forest Lawn',1010
+101001,0,'Vlg Sta',1010
+101100,0,'St Albert Ctr',1011
 101101,0,'Vlg Transit Sta',1011
 101200,0,'Campbell',1012
-101304,0,'Vlg Transit Sta',1013
+101304,0,'Vlg Sta',1013
 101303,0,'Woodlands',1013
 101400,0,'St Albert North',1014
 101401,0,'Vlg Transit Sta',1014
-102102,0,'Enjoy Ctr',1021
-102101,0,'Vlg Transit Sta',1021
-60900003,0,'Giroux Rd & Bellerose HS',609000
-60900004,0,'McKenney Ave & Morgan Cr',609000
-191400000,0,'Snowflake Festival',1914000
+102101,0,'Riel',1021
+102100,0,'Vlg Transit Sta',1021
+60100000,0,'Fire And Ice Festival',601000
