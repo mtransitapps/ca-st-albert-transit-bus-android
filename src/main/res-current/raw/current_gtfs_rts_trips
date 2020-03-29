@@ -4,8 +4,6 @@
 20201,0,'St Albert',202
 20300,0,'Kingsway TC',203
 20301,0,'St Albert',203
-20400,0,'Gov Ctr',204
-20401,0,'St Albert',204
 20501,0,'St Albert',205
 20500,0,'West Edmonton',205
 20700,0,'St Albert',207
@@ -38,3 +36,5 @@
 101401,0,'Vlg Transit Sta',1014
 102101,0,'Riel',1021
 102100,0,'Vlg Transit Sta',1021
+600101,0,'Farmer''s Mkt Shuttle',6001
+181800000,0,'Rainmaker Rodeo',1818000
