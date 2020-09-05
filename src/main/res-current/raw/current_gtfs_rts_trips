@@ -1,5 +1,4 @@
-20104,0,'Edmonton',201
-20103,0,'St Albert',201
+20100,0,'Edmonton',201
 20200,0,'Kingsway TC',202
 20201,0,'St Albert',202
 20300,0,'Kingsway TC',203
@@ -8,19 +7,21 @@
 20500,0,'West Edmonton',205
 20801,0,'Gov Ctr',208
 20800,0,'St Albert',208
-100101,0,'St Albert Ctr',1001
-100100,0,'Vlg Transit Sta',1001
 100400,0,'St Albert Ctr',1004
-100501,0,'Vlg Sta',1005
+100501,0,'Lacombe Pk',1005
 100600,0,'North Rdg',1006
-100601,0,'Vlg Transit Sta',1006
+100601,0,'St Albert Ctr',1006
 100700,0,'Oakmont',1007
 100801,0,'Erin Rdg',1008
-100901,0,'St Albert Ctr',1009
-100900,0,'Vlg Transit Sta',1009
-101100,0,'St Albert Ctr',1011
-101101,0,'Vlg Transit Sta',1011
+100901,0,'Kingswood',1009
+100900,0,'Naki TC',1009
+101401,0,'St Albert Ctr',1014
 101400,0,'St Albert North',1014
-101401,0,'Vlg Transit Sta',1014
+102100,0,'Naki TC',1021
 102101,0,'Riel',1021
-102100,0,'Vlg Transit Sta',1021
+103101,0,'Naki TC',1031
+103100,0,'St Albert Ctr',1031
+103201,0,'Naki TC',1032
+103200,0,'St Albert Ctr',1032
+103301,0,'Naki TC',1033
+103300,0,'St Albert Ctr',1033
