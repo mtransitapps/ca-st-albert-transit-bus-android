@@ -1,6 +1,6 @@
-1,'0001','Grandin Rd & Grn Lees Pl',53.62263,-113.619717
+1,'0001','Grandin Rd & Grn Lees Pl',53.622619,-113.619767
 2,'0002','Oakridge Dr S & Ouellette Pl',53.655783,-113.611946
-3,'0003','Grandin Rd & Gln Mdw Cres',53.625696,-113.621704
+3,'0003','Grandin Rd & Gln Mdw Cres',53.625694,-113.621718
 4,'0004','Oakridge Dr S & Orchard Ct',53.654837,-113.60881
 5,'0005','Grosvenor Blvd & Glenmore Cres',53.627081,-113.626728
 6,'0006','Oakridge Dr S & Otter Cr',53.655548,-113.606728
@@ -54,9 +54,9 @@
 64,'0064','Kingswood Blvd & Kingsdale Cres',53.647313,-113.588797
 65,'0065','Grandin Rd & SWC Ave',53.63028,-113.626619
 66,'0066','Kirkwood Dr & Kingswood Blvd',53.645146,-113.588157
-67,'0067','St Anne St & St Albert Pl',53.633671,-113.627261
+67,'0067','St Anne St & St Albert Pl',53.633657,-113.627295
 68,'0068','Erin Rdg Rd & St Albert Trl',53.657834,-113.628205
-69,'0069','St Anne St & Peron St',53.634805,-113.625693
+69,'0069','St Anne St & Peron St',53.634847,-113.625804
 70,'0070','Bellerose Dr & Oakmont Dr',53.656365,-113.61483
 71,'0071','N Rdg Dr & Nicola Rd',53.647326,-113.671498
 72,'0072','SWC Ave & Tache St',53.629624,-113.629971
@@ -79,7 +79,7 @@
 110,'0110','N Rdg Dr & Naples Way',53.645303,-113.671132
 111,'0111','St Anne St & Perron St',53.634459,-113.627161
 112,'0112','N Rdg Dr & Napoleon Cres',53.65154,-113.67205
-113,'0113','St Anne St & St Thomas St',53.632177,-113.627563
+113,'0113','St Anne St & St Thomas St',53.63218,-113.62745
 114,'0114','N Rdg Dr & Giroux Rd',53.644185,-113.668467
 115,'0115','Grandin Rd & SWC Ave',53.629836,-113.626473
 117,'0117','St Vital Ave & Muir Dr',53.63979,-113.626905
@@ -87,8 +87,8 @@
 119,'0119','St Vital Ave & Youville Home',53.637867,-113.632031
 120,'0120','N Rdg Dr & Normandeau Cres',53.651313,-113.671734
 121,'0121','St Vital Ave & Mt Royal Dr',53.636485,-113.633947
-123,'0123','Grandin Rd & Gln Mdw Cres',53.625531,-113.621858
-125,'0125','Grandin Rd & Grandville Ave',53.622586,-113.619969
+123,'0123','Grandin Rd & Gln Mdw Cres',53.625416,-113.621648
+125,'0125','Grandin Rd & Grandville Ave',53.622595,-113.619932
 129,'0129','St Albert Trl & Sterling St',53.628043,-113.618902
 133,'0133','Mission Ave & St Vital Ave',53.633582,-113.639723
 135,'0135','Mission Ave & Milburn Cr',53.637429,-113.643708
@@ -390,7 +390,7 @@
 945,'0945','Eldorado Dr & English Way',53.6598,-113.618238
 947,'0947','Eldorado Dr & English Way',53.659682,-113.61733
 965,'0965','Oakland Way & Bellerose Dr',53.662554,-113.613567
-971,'0971','St Albert Ctr Exch',53.640458,-113.62347
+971,'0971','St Albert Ctr Exch',53.640045,-113.623425
 972,'0972','St Albert Ctr Exch',53.640458,-113.623647
 973,'0973','St Albert Ctr Exch',53.640093,-113.623818
 974,'0974','St Albert Ctr Exch',53.639,-113.623464
