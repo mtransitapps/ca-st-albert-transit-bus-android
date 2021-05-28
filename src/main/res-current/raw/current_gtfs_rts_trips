@@ -1,28 +1,28 @@
-20100,0,'201 MacEwan U',201
-20101,0,'201 St Albert',201
-20200,0,'202 Kingsway TC',202
-20201,0,'202 St Albert',202
-20301,0,'203 St Albert',203
-20300,0,'203 U Of A',203
-20501,0,'205 St Albert',205
-20500,0,'205 W Edm',205
-20800,0,'208 Gov Ctr',208
-20801,0,'208 St Albert',208
-100400,0,'A4 St Albert Ctr Lacombe Pk Deer Rdg',1004
-100501,0,'A5 St Albert Ctr Deer Rdg Lacombe Pk',1005
-100600,0,'A6 N Rdg',1006
-100601,0,'A6 St Albert Ctr',1006
-100700,0,'A7 St Albert Ctr Erin Rdg Oakmont',1007
-100801,0,'A8 St Albert Ctr Oakmont Erin Rdg',1008
-100901,0,'A9 Kingswood',1009
-100900,0,'A9 Naki TC',1009
-101401,0,'A14 St Albert Ctr',1014
-101400,0,'A14 St Albert N',1014
-102100,0,'A21 Naki TC',1021
-102101,0,'A21 Riel',1021
-103101,0,'A31 Naki TC',1031
-103100,0,'A31 St Albert Ctr',1031
-103201,0,'A32 Naki TC',1032
-103200,0,'A32 St Albert Ctr',1032
-103301,0,'A33 Naki TC',1033
-103300,0,'A33 St Albert Ctr',1033
+20100,0,'MacEwan U',201
+20101,0,'St Albert',201
+20200,0,'Kingsway TC',202
+20201,0,'St Albert',202
+20301,0,'St Albert',203
+20300,0,'U Of A',203
+20501,0,'St Albert',205
+20500,0,'W Edm',205
+20800,0,'Gov Ctr',208
+20801,0,'St Albert',208
+100400,0,'Lacombe Pk Deer Rdg',1004
+100501,0,'Deer Rdg Lacombe Pk',1005
+100600,0,'N Rdg',1006
+100601,0,'St Albert Ctr',1006
+100700,0,'Erin Rdg Oakmont',1007
+100801,0,'Oakmont Erin Rdg',1008
+100901,0,'Kingswood',1009
+100900,0,'Naki TC',1009
+101401,0,'St Albert Ctr',1014
+101400,0,'St Albert N',1014
+102100,0,'Naki TC',1021
+102101,0,'Riel',1021
+103101,0,'Naki TC',1031
+103100,0,'St Albert Ctr',1031
+103201,0,'Naki TC',1032
+103200,0,'St Albert Ctr',1032
+103301,0,'Naki TC',1033
+103300,0,'St Albert Ctr',1033
