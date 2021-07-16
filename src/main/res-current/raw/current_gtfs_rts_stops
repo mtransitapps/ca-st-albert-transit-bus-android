@@ -56,7 +56,7 @@
 66,'0066','Kirkwood Dr & Kingswood Blvd',53.645146,-113.588157
 67,'0067','St Anne St & St Albert Pl',53.633671,-113.627261
 68,'0068','Erin Rdg Rd & St Albert Trl',53.657834,-113.628205
-69,'0069','St Anne St & Peron St',53.634805,-113.625693
+69,'0069','St Anne St & Perron St',53.634805,-113.625693
 70,'0070','Bellerose Dr & Oakmont Dr',53.656365,-113.61483
 71,'0071','N Rdg Dr & Nicola Rd',53.647326,-113.671498
 72,'0072','SWC Ave & Tache St',53.629624,-113.629971
@@ -73,14 +73,14 @@
 96,'0096','Riel Dr & SWC Ave',53.62687,-113.635664
 98,'0098','SWC Ave & Gresham Blvd',53.627197,-113.632856
 100,'0100','SWC Ave & Tache St',53.629784,-113.628909
-102,'0102','St Albert Trl & Boudreau Rd',53.654429,-113.629258
+102,'0102','St Albert Trl & Boudreau Rd',53.654457,-113.629277
 103,'0103','Mission Ave & Morgan Cr',53.636865,-113.643715
 106,'0106','N Rdg Dr & Naples Way',53.645975,-113.671358
 108,'0108','N Rdg Dr & Nicola Rd',53.647941,-113.671181
 110,'0110','N Rdg Dr & Naples Way',53.645303,-113.671132
 111,'0111','St Anne St & Perron St',53.634459,-113.627161
 112,'0112','N Rdg Dr & Napoleon Cres',53.65154,-113.67205
-113,'0113','St Anne St & St Thomas St',53.632177,-113.627563
+113,'0113','St Anne St & St Thomas St',53.632192,-113.627551
 114,'0114','N Rdg Dr & Giroux Rd',53.644185,-113.668467
 115,'0115','Grandin Rd & SWC Ave',53.629836,-113.626473
 117,'0117','St Vital Ave & Muir Dr',53.63979,-113.626905
@@ -140,7 +140,7 @@
 250,'0250','Element Dr & Costco',53.669942,-113.633036
 251,'0251','Westwood Dr & Windsor Cres',53.644941,-113.607375
 252,'0252','Riel Dr & Enjoy Ctr S',53.611119,-113.645868
-254,'0254','St Anne St & St Thomas St',53.632148,-113.627294
+254,'0254','St Anne St & St Thomas St',53.632094,-113.627307
 255,'0255','Woodlands Rd & Woodcrest Av',53.644303,-113.598194
 257,'0257','SWC Ave & Brunswick Cr',53.639743,-113.603755
 258,'0258','Riel Dr & Renault Cres',53.615714,-113.648142
@@ -162,7 +162,7 @@
 301,'0301','Carnegie Dr & Chisholm Ave',53.636945,-113.574546
 302,'0302','Giroux Rd & Lacombe Dr',53.641499,-113.669761
 303,'0303','Carnegie Dr & Transit Garage',53.63932,-113.575733
-304,'0304','Riel Dr & Enjoy Ctr S',53.611211,-113.645683
+304,'0304','Riel Dr & Enjoy Ctr S',53.611901,-113.646034
 305,'0305','Corriveau Ave & Carnegie Dr',53.6424,-113.576649
 306,'0306','Riel Dr & Enjoy Ctr N',53.613139,-113.646712
 307,'0307','Pineview Dr & Poirier Ave',53.641571,-113.582535
@@ -259,12 +259,12 @@
 581,'0581','Primeau Ln & Boudreau Rd',53.638794,-113.593505
 583,'0583','Primeau Ln & Boudreau Rd',53.638911,-113.593597
 585,'0585','Forest Dr & Fraser Dr',53.637548,-113.595018
-587,'0587','Cunningham Rd & Sunset Blvd',53.632962,-113.61424
+587,'0587','Cunningham Rd & Sunset Blvd',53.633052,-113.614393
 593,'0593','Forest Dr & Fraser Dr',53.637777,-113.594968
 599,'0599','Sunset Blvd & Hebert Rd',53.623509,-113.607815
 603,'0603','Poirier Ave & Campbell Rd',53.642332,-113.580136
 609,'0609','SWC Ave & Perron St',53.631964,-113.622609
-611,'0611','St Albert Trl & Giroux Rd',53.652841,-113.629246
+611,'0611','St Albert Trl & Giroux Rd',53.6524,-113.629155
 613,'0613','Poirier Ave & Campbell Rd',53.642212,-113.579757
 617,'0617','Boudreau Rd & Westwood Dr',53.644442,-113.608646
 619,'0619','Bellerose Dr & Evergreen Dr',53.651491,-113.616067
@@ -391,7 +391,7 @@
 945,'0945','Eldorado Dr & English Way',53.6598,-113.618238
 947,'0947','Eldorado Dr & English Way',53.659682,-113.61733
 965,'0965','Oakland Way & Bellerose Dr',53.662554,-113.613567
-971,'0971','St Albert Ctr Exch',53.640207,-113.623498
+971,'0971','St Albert Ctr Exch',53.640458,-113.62347
 972,'0972','St Albert Ctr Exch',53.640458,-113.623647
 973,'0973','St Albert Ctr Exch',53.640093,-113.623818
 974,'0974','St Albert Ctr Exch',53.639,-113.623464
