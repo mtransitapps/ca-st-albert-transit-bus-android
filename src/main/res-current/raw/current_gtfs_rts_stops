@@ -20,13 +20,9 @@
 20,'0020','Erin Rdg Dr & Ellington Cr',53.666661,-113.622271
 21,'0021','Gainsborough Ave & Graham Ave',53.616879,-113.632158
 22,'0022','Erin Rdg Dr & Ebony Way',53.664557,-113.624999
-23,'0023','Gainsborough Ave & Gladstone Cr',53.617216,-113.626865
 24,'0024','Erin Rdg Dr & Ellington Cr',53.666827,-113.62129
-25,'0025','Gainsborough Ave & Grosvenor Blvd',53.617188,-113.623628
 26,'0026','Erin Rdg Dr & Eastgate Way',53.666904,-113.617819
-27,'0027','Granite Ave & Grosvenor Blvd',53.618334,-113.622677
 28,'0028','Erin Rdg Dr & Empress Way',53.665514,-113.616031
-29,'0029','Granite Ave & Grandin Rd',53.618296,-113.619547
 30,'0030','Erin Rdg Dr & Eastpark Dr',53.665457,-113.613101
 31,'0031','Grandin Rd & Grandora Cres',53.62097,-113.619199
 32,'0032','Oakmont Dr & Oakdale Pl',53.660822,-113.608258
@@ -99,12 +95,8 @@
 135,'0135','Mission Ave & Milburn Cr',53.637429,-113.643708
 137,'0137','Laydon Dr & Lester Cr',53.638753,-113.647312
 139,'0139','Laydon Dr & Lafonde Cr',53.64037,-113.649436
-142,'0142','Heritage Way & Harwood Dr',53.612609,-113.630845
-144,'0144','Heritage Way & Hillcrest Pl',53.611162,-113.627744
 149,'0149','Larose Dr & Larson Ave',53.647888,-113.642662
-150,'0150','Heritage Dr & Hansen Close',53.611798,-113.624991
 151,'0151','Larose Dr & Leddy Ave',53.646368,-113.641589
-152,'0152','Heritage Dr & Hudson Rd',53.612358,-113.621016
 153,'0153','Larose Dr & Lawrence Cr',53.644397,-113.64085
 157,'0157','Larose Dr & Langley Ave',53.642839,-113.64285
 169,'0169','St Albert Trl & Madison Ave',53.638529,-113.624707
@@ -118,7 +110,6 @@
 203,'0203','Cunningham Rd & Sunset Blvd',53.63239,-113.613403
 205,'0205','Cunningham Rd & Forest Dr',53.631142,-113.610526
 207,'0207','Cunningham Rd & Sycamore Ave',53.629731,-113.607267
-208,'0208','Corriveau Ave & Chevigny St',53.642279,-113.570631
 209,'0209','Cunningham Rd & Stanley Dr',53.628685,-113.602929
 210,'0210','N Rdg Dr & Northstar Cl',53.655708,-113.666027
 211,'0211','Hebert Rd & Cunningham Rd',53.629548,-113.599443
@@ -175,7 +166,6 @@
 305,'0305','Corriveau Ave & Carnegie Dr',53.6424,-113.576649
 306,'0306','Riel Dr & Enjoy Ctr N',53.613139,-113.646712
 307,'0307','Pineview Dr & Poirier Ave',53.641571,-113.582535
-309,'0309','Page Dr & Pineridge Cr',53.637021,-113.583856
 311,'0311','Akins Dr & Alpine Blvd',53.633491,-113.583862
 313,'0313','Akins Dr & Acorn Cres',53.630439,-113.587925
 315,'0315','Arlington Dr & Abbey Cres',53.62938,-113.591945
@@ -192,45 +182,22 @@
 333,'0333','Akins Dr & Arbor Cres',53.630507,-113.587365
 334,'0334','Versailles Ave & Giroux Rd',53.638227,-113.672426
 335,'0335','Akins Dr & Amherst Cres',53.63421,-113.583631
-336,'0336','Corriveau Ave & Veness Rd',53.642429,-113.567565
-337,'0337','Page Dr & Princeton Cr',53.637747,-113.58367
-338,'0338','Chevigny St & Corriveau Ave',53.643053,-113.570875
 339,'0339','Pineview Dr & Poirier Ave',53.64148,-113.582303
-340,'0340','Carleton Dr & Chevigny St',53.645841,-113.571673
 341,'0341','Carnegie Dr & Corriveau Ave',53.641936,-113.57598
-342,'0342','Carleton Dr & Ctr St',53.646868,-113.574139
 343,'0343','Carnegie Dr & Transit Garage',53.639566,-113.575969
-344,'0344','Ctr St & Carleton Dr',53.64797,-113.575693
 345,'0345','Carnegie Dr & Boudreau Rd',53.636859,-113.574782
-346,'0346','Campbell Rd & Servus Pl',53.645489,-113.577592
-348,'0348','Campbell Rd & Servus Pl',53.644342,-113.577668
-350,'0350','Ctr St & Carleton Dr',53.647795,-113.575141
 351,'0351','Forest Dr & Fernwood Cres',53.635084,-113.598261
-352,'0352','Carleton Dr & Ctr St',53.646398,-113.573657
 353,'0353','SWC Ave & Cunningham Rd',53.632988,-113.61904
-354,'0354','Chevigny St & Carleton Dr',53.645463,-113.571118
-356,'0356','Chevigny St & Corriveau Ave',53.642773,-113.571086
-358,'0358','Boudreau Rd & Veness Rd',53.63594,-113.569303
-360,'0360','Levasseur Rd & Grandin Rd',53.614309,-113.620403
-362,'0362','Levasseur Rd & Grosvenor Blvd',53.614352,-113.624037
 363,'0363','Willoughby Dr & Wolcott Pl',53.649721,-113.601162
-364,'0364','Levasseur Rd & Graham Ave',53.614369,-113.631604
 365,'0365','Willoughby Dr & Waverly Dr',53.648783,-113.597217
-366,'0366','Levasseur Rd & Sir Winston Churchill Ave',53.614366,-113.637992
 367,'0367','Willoughby Dr & Wentworth Cres',53.647113,-113.598264
-368,'0368','Levasseur Rd & Sir Winston Churchill Ave',53.614214,-113.637453
-370,'0370','Levasseur Rd & Heritage Way',53.614211,-113.630056
 371,'0371','St Vital Ave & Mural Cres',53.634042,-113.6378
-372,'0372','Levasseur Rd & Hudson Rd',53.614133,-113.618734
 373,'0373','St Vital Ave & Mt Royal Dr',53.63629,-113.633991
 375,'0375','St Vital Ave & Youville Home',53.637874,-113.631577
 376,'0376','St Albert Trl & Gt Ave',53.624028,-113.61343
 377,'0377','St Vital Ave & St Albert Trl',53.640118,-113.625591
 378,'0378','St Albert Trl & Gt Ave',53.623073,-113.612672
-380,'0380','Sir Winston Churchill Ave & Hawthorne Cr',53.608025,-113.638795
-382,'0382','Sir Winston Churchill Ave & Hawthone Cr',53.607669,-113.63909
 385,'0385','Westwood Dr & Woodlands Rd',53.646633,-113.604817
-386,'0386','Boudreau Rd & Carnegie Dr',53.635953,-113.573654
 387,'0387','Woodlands Rd & Wakefield Blvd',53.648315,-113.603628
 388,'0388','Willoughby Dr & Wycliff Pl',53.646484,-113.599365
 389,'0389','Willoughby Dr & Woodlands Rd',53.645608,-113.600373
@@ -241,13 +208,8 @@
 394,'0394','Richardson Dr S',53.602045,-113.646633
 396,'0396','Richardson Dr E',53.605201,-113.644109
 397,'0397','Bellerose Dr & Ironwood Dr',53.648942,-113.619991
-398,'0398','Richardson Dr E',53.6047,-113.64432
 399,'0399','Bellerose Dr & Inglewood Dr',53.645918,-113.622347
-400,'0400','Richardson Dr S',53.602181,-113.64493
-402,'0402','Richardson Dr W',53.605594,-113.647056
 403,'0403','Sir Winston Churchill Ave & Woodlands Rd',53.643005,-113.597531
-404,'0404','LeClair Way & Richardson Dr',53.606371,-113.643127
-406,'0406','LeClair Way & Richarson Dr',53.607022,-113.643757
 407,'0407','Arlington Dr & Arcand Dr',53.623382,-113.599277
 409,'0409','Arlington Dr & Arcand Dr',53.623471,-113.600338
 419,'0419','Deerbourne Dr & Delorme Pl',53.654798,-113.633334
@@ -299,7 +261,6 @@
 585,'0585','Forest Dr & Fraser Dr',53.637548,-113.595018
 587,'0587','Cunningham Rd & Sunset Blvd',53.633052,-113.614393
 593,'0593','Forest Dr & Fraser Dr',53.637777,-113.594968
-597,'0597','Gervais Rd & Levasseur Rd',53.614684,-113.614923
 599,'0599','Sunset Blvd & Hebert Rd',53.623509,-113.607815
 603,'0603','Poirier Ave & Campbell Rd',53.642332,-113.580136
 609,'0609','SWC Ave & Perron St',53.631964,-113.622609
@@ -309,11 +270,7 @@
 619,'0619','Bellerose Dr & Evergreen Dr',53.651491,-113.616067
 633,'0633','Bellerose Dr & Evergreen Dr',53.651554,-113.616505
 643,'0643','Hudson Rd & Levasseur Rd',53.613637,-113.619377
-645,'0645','Heritage Dr & Hudson Rd',53.612406,-113.620434
-647,'0647','Heritage Dr & Highland Cr',53.611811,-113.625293
 651,'0651','Sunset Blvd & Cunningham Rd',53.632451,-113.614307
-657,'0657','Heritage Dr & Hillcrest Pl',53.61125,-113.628636
-659,'0659','Gervais Rd & Levasseur Rd',53.616301,-113.615299
 663,'0663','Bellerose Dr & Boudreau Rd',53.650734,-113.61863
 665,'0665','Boudreau Rd & Ellesmere Dr',53.652542,-113.622398
 667,'0667','Erin Rdg Dr & Boudreau Rd',53.654327,-113.624373
@@ -332,14 +289,12 @@
 693,'0693','Bellerose Dr & Ironwood Pt',53.648862,-113.619701
 695,'0695','Bellerose Dr & Edward Way',53.655626,-113.614712
 703,'0703','St Albert Trl & McKenney Ave',53.645556,-113.627005
-705,'0705','Corriveau Ave & Veness Rd',53.642289,-113.567292
 711,'0711','Giroux Rd & Bellerose High Sch',53.647499,-113.656531
 715,'0715','Dunbar St & Giroux Rd',53.654006,-113.632092
 717,'0717','Giroux Rd & Bellerose HS',53.64728,-113.656582
 719,'0719','Deer Rdg Dr & Dorchester Dr',53.654312,-113.658625
 721,'0721','Laydon Dr & Lester Cr',53.638603,-113.647452
 723,'0723','Erin Rdg Dr & Ebony Way',53.66391,-113.625825
-733,'0733','Levasseur Rd & Grosvenor Blvd',53.614189,-113.622887
 735,'0735','Hudson Rd & Heritage Dr',53.6124,-113.619582
 737,'0737','Heritage Dr & Hudson Rd',53.611891,-113.619673
 739,'0739','Heritage Dr & Hanover Pl',53.610727,-113.619536
@@ -424,12 +379,10 @@
 913,'0913','Grandin Rd & Gaspe Ct',53.616738,-113.61904
 915,'0915','Gervais Rd & Grange Dr',53.619772,-113.611797
 919,'0919','Gervais Rd & Galarneau Pl',53.619857,-113.611291
-923,'0923','Gervais Rd & Goodridge Dr',53.617891,-113.613684
 925,'0925','St Albert Trl & Save On Foods N',53.661066,-113.631555
 927,'0927','Hogan Rd & Nelson Ct',53.647544,-113.665381
 929,'0929','Hogan Rd & Dunfield Cr',53.649803,-113.664159
 931,'0931','Bellerose Dr & Oakmont Dr',53.654415,-113.613854
-933,'0933','Boudreau Rd & Chatelain Dr',53.636152,-113.569664
 935,'0935','Eldorado Dr & Erin Rdg Dr',53.659421,-113.625108
 937,'0937','Oakridge Dr N & Oakland Way',53.661383,-113.611757
 939,'0939','Oakmont Dr & Oakridge Dr N',53.65649,-113.613004
@@ -451,11 +404,9 @@
 995,'0995','Kirkwood Dr & Poirier Ave',53.642821,-113.590213
 997,'0997','Parkwood Dr & Poirier Ave',53.642432,-113.591185
 999,'0999','Boudreau Rd & Ironwood Dr',53.652027,-113.621781
-1019,'1019','101 St & 104 Ave',53.547126,-113.493553
 1024,'1024','102 St & 111 Ave',53.558788,-113.497897
 1083,'1083','109 St & Jasper Ave',53.540827,-113.50716
 1107,'1107','Kingsway RAH TC B:D',53.558367,-113.501849
-1128,'1128','101 St & 102 Ave',53.5439,-113.493591
 1223,'1223','106 St & 117 Ave',53.567449,-113.503102
 1226,'1226','106 St & 113 Ave',53.562242,-113.503557
 1227,'1227','106 St & 117 Ave',53.568069,-113.502751
@@ -463,7 +414,6 @@
 1292,'1292','100 St & 102A Ave',53.54372,-113.490944
 1302,'1302','Gov TC B:B',53.535984,-113.504252
 1304,'1304','Gov TC B:D',53.536019,-113.504463
-1346,'1346','101 St & 101A Ave NS',53.541862,-113.493597
 1426,'1426','101 St & Kingsway',53.553986,-113.493859
 1439,'1439','101 St & 103A Ave',53.546012,-113.492656
 1557,'1557','109 St & 105 Ave',53.54793,-113.508657
@@ -471,7 +421,6 @@
 1608,'1608','100 St & 103 Ave',53.54513,-113.49117
 1620,'1620','101 St & Jasper Ave',53.54103,-113.495157
 1669,'1669','124 St & 118 Ave',53.5704,-113.53672
-1679,'1679','105 St & 104 Ave',53.546114,-113.500398
 1702,'1702','109 St & 104 Ave',53.546728,-113.508241
 1711,'1711','107 St & 100 Ave',53.539718,-113.504658
 1716,'1716','Groat Rd & 118 Ave',53.570206,-113.547724
@@ -484,7 +433,6 @@
 1850,'1850','105 St & 104 Ave',53.546333,-113.502197
 1851,'1851','109 St & 102 Ave',53.543295,-113.508238
 1904,'1904','Airport Rd E & Kingsway',53.565882,-113.520017
-1924,'1924','101 St & Kingsway',53.554936,-113.494297
 1941,'1941','107 St & 100 Ave',53.538483,-113.504859
 1947,'1947','St Albert Trl & 119 Ave',53.572189,-113.550164
 1951,'1951','109 St & Kingsway',53.560278,-113.507491
@@ -511,7 +459,6 @@
 5669,'5669','163 St & 114 Ave',53.56308,-113.603725
 5692,'5692','156 St & 114 Ave',53.563135,-113.591013
 5794,'5794','178 St & Stony Plain Rd',53.540088,-113.627609
-5840,'5840','W Edm Mall B:B',53.524951,-113.622898
 5850,'5850','163 St & 114 Ave',53.562957,-113.602161
 6110,'6110','156 St & 128 Ave',53.584468,-113.590552
 6152,'6152','St Albert Trl & 134 Ave',53.594473,-113.569544

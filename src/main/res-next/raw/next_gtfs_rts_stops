@@ -1,0 +1,550 @@
+1,'0001','Grandin Rd & Grn Lees Pl',53.62263,-113.619717
+2,'0002','Oakridge Dr S & Ouellette Pl',53.655783,-113.611946
+3,'0003','Grandin Rd & Gln Mdw Cres',53.625696,-113.621704
+4,'0004','Oakridge Dr S & Orchard Ct',53.654837,-113.60881
+5,'0005','Grosvenor Blvd & Glenmore Cres',53.627081,-113.626728
+6,'0006','Oakridge Dr S & Otter Cr',53.655548,-113.606728
+7,'0007','Grenfell Ave & Gresham Blvd',53.624219,-113.629035
+8,'0008','Oakridge Dr S & Otter Cr',53.659327,-113.604263
+9,'0009','Grenfell Ave & Glenhaven Cres',53.62281,-113.632752
+10,'0010','Oakmont Dr & Oak Vista Dr',53.661431,-113.60611
+11,'0011','Gatewood Ave & Grenfell Ave',53.62128,-113.635807
+12,'0012','Oakmont Dr & Oakridge Dr N',53.660564,-113.609397
+13,'0013','SWC Ave & Gatewood Ave',53.621872,-113.64147
+14,'0014','Oakland Way & Olmstead Ct',53.66281,-113.613527
+15,'0015','SWC Ave & Grandin Vlg I',53.619865,-113.642105
+16,'0016','Erin Rdg Dr & Eastpark Dr',53.665303,-113.613983
+17,'0017','Gainsborough Ave & SWC Ave',53.615713,-113.638442
+18,'0018','Erin Rdg Dr & Eastgate Way',53.667192,-113.618598
+19,'0019','Gainsborough Ave & Grenfell Ave',53.616549,-113.634276
+20,'0020','Erin Rdg Dr & Ellington Cr',53.666661,-113.622271
+21,'0021','Gainsborough Ave & Graham Ave',53.616879,-113.632158
+22,'0022','Erin Rdg Dr & Ebony Way',53.664557,-113.624999
+23,'0023','Gainsborough Ave & Gladstone Cr',53.617216,-113.626865
+24,'0024','Erin Rdg Dr & Ellington Cr',53.666827,-113.62129
+25,'0025','Gainsborough Ave & Grosvenor Blvd',53.617188,-113.623628
+26,'0026','Erin Rdg Dr & Eastgate Way',53.666904,-113.617819
+27,'0027','Granite Ave & Grosvenor Blvd',53.618334,-113.622677
+28,'0028','Erin Rdg Dr & Empress Way',53.665514,-113.616031
+29,'0029','Granite Ave & Grandin Rd',53.618296,-113.619547
+30,'0030','Erin Rdg Dr & Eastpark Dr',53.665457,-113.613101
+31,'0031','Grandin Rd & Grandora Cres',53.62097,-113.619199
+32,'0032','Oakmont Dr & Oakdale Pl',53.660822,-113.608258
+33,'0033','Grandin Rd & Grandora Cres',53.62046,-113.619317
+34,'0034','Oakridge Dr S & Otter Cr',53.658059,-113.604645
+36,'0036','Oakridge Dr S & Overton Pl',53.655959,-113.606374
+38,'0038','Oakridge Dr S & Outlook Pl',53.654944,-113.608901
+40,'0040','Oak Vista Dr & Oakmont Dr',53.661112,-113.60546
+42,'0042','Kingswood Blvd & Kirkwood Dr',53.645692,-113.587937
+45,'0045','Gainsborough Ave & Graham Ave',53.617019,-113.632023
+46,'0046','Kingswood Blvd & Kingsdale Cres',53.647875,-113.588427
+47,'0047','Gainsborough Ave & Grenfell Ave',53.616524,-113.63517
+48,'0048','Kingswood Blvd & Kingsmeade Cres',53.650399,-113.58654
+49,'0049','Gainsborough Ave & SWC Ave',53.615942,-113.63806
+50,'0050','Kingsway Dr & Kingswood Blvd',53.651966,-113.583904
+51,'0051','SWC Ave & Grandin Vlg III',53.616694,-113.6412
+52,'0052','Kingsway Dr & Kingsbury Cres',53.651656,-113.588348
+53,'0053','SWC Ave & Grandin Vlg I',53.619837,-113.641784
+54,'0054','Kingsway Dr & Kingswood Dr',53.650695,-113.591376
+55,'0055','SWC Ave & Gatewood Ave',53.621808,-113.641165
+56,'0056','Kingsway Dr & Kingswood Dr',53.650599,-113.591687
+57,'0057','Grenfell Ave & Gatewood Ave',53.621727,-113.634856
+58,'0058','Kingsway Dr & Kelso Court',53.652022,-113.587734
+59,'0059','Grenfell Ave & Glenhaven Cres',53.62302,-113.631843
+60,'0060','Kingswood Blvd & Kingsway Dr',53.651683,-113.584421
+61,'0061','Grenfell Ave & Grosvenor Blvd',53.624142,-113.628869
+62,'0062','Kingswood Blvd & Kingsmeade Cres',53.649157,-113.58769
+63,'0063','Grosvenor Blvd & Glenmore Cres',53.627021,-113.626541
+64,'0064','Kingswood Blvd & Kingsdale Cres',53.647313,-113.588797
+65,'0065','Grandin Rd & SWC Ave',53.63028,-113.626619
+66,'0066','Kirkwood Dr & Kingswood Blvd',53.645146,-113.588157
+67,'0067','St Anne St & St Albert Pl',53.633671,-113.627261
+68,'0068','Erin Rdg Rd & St Albert Trl',53.657834,-113.628205
+69,'0069','St Anne St & Perron St',53.634805,-113.625693
+70,'0070','Bellerose Dr & Oakmont Dr',53.656365,-113.61483
+71,'0071','N Rdg Dr & Nicola Rd',53.647326,-113.671498
+72,'0072','SWC Ave & Tache St',53.629624,-113.629971
+74,'0074','Riel Dr & SWC Ave',53.626824,-113.636212
+76,'0076','19 Riel Dr',53.625615,-113.639325
+78,'0078','Riel Dr & Rayborn Cres',53.624433,-113.642324
+80,'0080','Riel Dr & Rayborn Cres',53.619661,-113.646585
+82,'0082','Riel Dr & Rowland Cres',53.61738,-113.647581
+86,'0086','Riel Dr & Renault Cres',53.616795,-113.647702
+88,'0088','Riel Dr & Rowland Cres',53.61831,-113.646855
+90,'0090','Riel Dr & Rayborn Cres',53.620196,-113.646295
+92,'0092','Riel Dr & Rayborn Cres',53.623755,-113.643581
+94,'0094','8 Riel Dr',53.625666,-113.63877
+96,'0096','Riel Dr & SWC Ave',53.62687,-113.635664
+98,'0098','SWC Ave & Gresham Blvd',53.627197,-113.632856
+100,'0100','SWC Ave & Tache St',53.629784,-113.628909
+103,'0103','Mission Ave & Morgan Cr',53.636865,-113.643715
+106,'0106','N Rdg Dr & Naples Way',53.645975,-113.671358
+108,'0108','N Rdg Dr & Nicola Rd',53.647941,-113.671181
+110,'0110','N Rdg Dr & Naples Way',53.645303,-113.671132
+111,'0111','St Anne St & Perron St',53.634459,-113.627161
+112,'0112','N Rdg Dr & Napoleon Cres',53.65154,-113.67205
+113,'0113','St Anne St & St Thomas St',53.632192,-113.627551
+114,'0114','N Rdg Dr & Giroux Rd',53.644185,-113.668467
+115,'0115','Grandin Rd & SWC Ave',53.629836,-113.626473
+117,'0117','St Vital Ave & Muir Dr',53.63979,-113.626905
+118,'0118','135 Erin Rdg Dr',53.665785,-113.616108
+119,'0119','St Vital Ave & Youville Home',53.637867,-113.632031
+120,'0120','N Rdg Dr & Normandeau Cres',53.651313,-113.671734
+121,'0121','St Vital Ave & Mt Royal Dr',53.636485,-113.633947
+123,'0123','Grandin Rd & Gln Mdw Cres',53.625531,-113.621858
+125,'0125','Grandin Rd & Grandville Ave',53.622586,-113.619969
+129,'0129','St Albert Trl & Sterling St',53.628043,-113.618902
+133,'0133','Mission Ave & St Vital Ave',53.633582,-113.639723
+135,'0135','Mission Ave & Milburn Cr',53.637429,-113.643708
+137,'0137','Laydon Dr & Lester Cr',53.638753,-113.647312
+139,'0139','Laydon Dr & Lafonde Cr',53.64037,-113.649436
+142,'0142','Heritage Way & Harwood Dr',53.612609,-113.630845
+144,'0144','Heritage Way & Hillcrest Pl',53.611162,-113.627744
+149,'0149','Larose Dr & Larson Ave',53.647888,-113.642662
+150,'0150','Heritage Dr & Hansen Close',53.611798,-113.624991
+151,'0151','Larose Dr & Leddy Ave',53.646368,-113.641589
+152,'0152','Heritage Dr & Hudson Rd',53.612358,-113.621016
+153,'0153','Larose Dr & Lawrence Cr',53.644397,-113.64085
+157,'0157','Larose Dr & Langley Ave',53.642839,-113.64285
+169,'0169','St Albert Trl & Madison Ave',53.638529,-113.624707
+173,'0173','St Albert Trl & St Anne St',53.634623,-113.623402
+175,'0175','St Albert Trl & Grn Grv Dr',53.627156,-113.618335
+195,'0195','Sunset Blvd & Sunnyside Cres',53.624212,-113.609413
+197,'0197','Sunset Blvd & Sheridan Dr',53.626073,-113.613242
+198,'0198','N Rdg Dr & Northstar Cl',53.655835,-113.666903
+199,'0199','Sunset Blvd & Sheridan Blvd',53.628078,-113.616017
+201,'0201','Sunset Blvd & Salisbury Ave',53.631249,-113.615568
+203,'0203','Cunningham Rd & Sunset Blvd',53.63239,-113.613403
+205,'0205','Cunningham Rd & Forest Dr',53.631142,-113.610526
+207,'0207','Cunningham Rd & Sycamore Ave',53.629731,-113.607267
+208,'0208','Corriveau Ave & Chevigny St',53.642279,-113.570631
+209,'0209','Cunningham Rd & Stanley Dr',53.628685,-113.602929
+210,'0210','N Rdg Dr & Northstar Cl',53.655708,-113.666027
+211,'0211','Hebert Rd & Cunningham Rd',53.629548,-113.599443
+212,'0212','N Rdg Dr & Noble Cl',53.655318,-113.670377
+213,'0213','Falstaff Ave & Hebert Rd',53.631862,-113.597792
+214,'0214','N Rdg Dr & Natalia Way',53.654915,-113.671388
+219,'0219','Fairview Blvd & Fairchild Dr',53.636085,-113.606977
+220,'0220','Versailles Ave & Giroux Rd',53.638653,-113.672314
+221,'0221','SWC Ave & Franklin Pl',53.638096,-113.605395
+222,'0222','Giroux Rd & Versailles Ave',53.63985,-113.672496
+223,'0223','SWC Ave & Flagstone Cres',53.639753,-113.603339
+224,'0224','Giroux Rd & Versailles Ave',53.640145,-113.672269
+225,'0225','Woodlands Rd & Wimbleton Cres',53.644089,-113.597646
+228,'0228','Riel Dr & Enjoy Ctr N',53.612559,-113.646617
+229,'0229','Westwood Dr & Windsor Cres',53.644859,-113.607704
+231,'0231','Sturgeon Rd & Beaverbrook Cres',53.644295,-113.613181
+233,'0233','Burnham Ave & Bellevue Cres',53.640893,-113.613815
+235,'0235','Burnham Ave & Bernard Dr',53.638442,-113.61641
+237,'0237','Sturgeon Rd & Burnham Ave',53.638097,-113.618862
+239,'0239','Sturgeon Rd & Brandon St',53.636155,-113.622649
+241,'0241','Sturgeon Rd & Brandon St',53.63632,-113.621685
+243,'0243','Sturgeon Rd & Burns St',53.637075,-113.619662
+245,'0245','Burnham Ave & Bernard Dr',53.638347,-113.616144
+247,'0247','Burnham Ave & Bellevue Cres',53.641289,-113.61373
+249,'0249','Sturgeon Rd & Beaverbrook Cres',53.64449,-113.612453
+250,'0250','Element Dr & Costco',53.669942,-113.633036
+251,'0251','Westwood Dr & Windsor Cres',53.644941,-113.607375
+252,'0252','Riel Dr & Enjoy Ctr S',53.611119,-113.645868
+254,'0254','St Anne St & St Thomas St',53.632094,-113.627307
+255,'0255','Woodlands Rd & Woodcrest Av',53.644303,-113.598194
+257,'0257','SWC Ave & Brunswick Cr',53.639743,-113.603755
+258,'0258','Riel Dr & Renault Cres',53.615714,-113.648142
+259,'0259','SWC Ave & Ridgewood Terr',53.638156,-113.60571
+261,'0261','Fairview Blvd & Fairchild Dr',53.635604,-113.606959
+267,'0267','Falstaff Ave & Fenwick Cr',53.631919,-113.598264
+271,'0271','Cunningham Rd & Stanley Dr',53.628882,-113.602081
+273,'0273','Cunningham Rd & Farmstead Ave',53.630273,-113.608001
+275,'0275','Cunningham Rd & Forest Dr',53.631673,-113.611209
+277,'0277','Sunset Blvd & Salisbury Ave',53.630971,-113.616152
+279,'0279','Sunset Blvd & Sheridan Blvd',53.628069,-113.616279
+281,'0281','Sunset Blvd & Sheridan Dr',53.625881,-113.613228
+283,'0283','Sunset Blvd & Salisbury Ave',53.624538,-113.610446
+285,'0285','Hebert Rd & Sunset Blvd',53.623047,-113.607783
+289,'0289','SWC Ave & Cunningham Rd',53.632975,-113.618444
+291,'0291','Forest Dr & Finch Cres',53.635177,-113.597868
+299,'0299','Boudreau Rd & Campbell Rd',53.635945,-113.580681
+300,'0300','Element Dr & Neil Ross Rd',53.672036,-113.634035
+301,'0301','Carnegie Dr & Chisholm Ave',53.636945,-113.574546
+302,'0302','Giroux Rd & Lacombe Dr',53.641499,-113.669761
+303,'0303','Carnegie Dr & Transit Garage',53.63932,-113.575733
+304,'0304','Riel Dr & Enjoy Ctr S',53.611901,-113.646034
+305,'0305','Corriveau Ave & Carnegie Dr',53.6424,-113.576649
+306,'0306','Riel Dr & Enjoy Ctr N',53.613139,-113.646712
+307,'0307','Pineview Dr & Poirier Ave',53.641571,-113.582535
+309,'0309','Page Dr & Pineridge Cr',53.637021,-113.583856
+311,'0311','Akins Dr & Alpine Blvd',53.633491,-113.583862
+313,'0313','Akins Dr & Acorn Cres',53.630439,-113.587925
+315,'0315','Arlington Dr & Abbey Cres',53.62938,-113.591945
+317,'0317','Arlington Dr & Alderwood Blvd',53.627015,-113.593499
+319,'0319','Arlington Dr & Ash Cres',53.624816,-113.597335
+320,'0320','Giroux Rd & N Rdg Dr',53.643669,-113.668341
+321,'0321','Arlington Dr & Attwood Dr',53.62436,-113.602804
+323,'0323','Hebert Rd & Sunset Blvd',53.623482,-113.606784
+324,'0324','Giroux Rd & Lacombe Dr',53.641125,-113.670558
+325,'0325','Arlington Dr & Hebert Rd',53.624688,-113.603905
+327,'0327','Arlington Dr & Ash Cres',53.625214,-113.596544
+329,'0329','Arlington Dr & Alderwood Blvd',53.626942,-113.593319
+331,'0331','Arlington Dr & Abbey Cres',53.629376,-113.591736
+333,'0333','Akins Dr & Arbor Cres',53.630507,-113.587365
+334,'0334','Versailles Ave & Giroux Rd',53.638227,-113.672426
+335,'0335','Akins Dr & Amherst Cres',53.63421,-113.583631
+336,'0336','Corriveau Ave & Veness Rd',53.642429,-113.567565
+337,'0337','Page Dr & Princeton Cr',53.637747,-113.58367
+338,'0338','Chevigny St & Corriveau Ave',53.643053,-113.570875
+339,'0339','Pineview Dr & Poirier Ave',53.64148,-113.582303
+340,'0340','Carleton Dr & Chevigny St',53.645841,-113.571673
+341,'0341','Carnegie Dr & Corriveau Ave',53.641936,-113.57598
+342,'0342','Carleton Dr & Ctr St',53.646868,-113.574139
+343,'0343','Carnegie Dr & Transit Garage',53.639566,-113.575969
+344,'0344','Ctr St & Carleton Dr',53.64797,-113.575693
+345,'0345','Carnegie Dr & Boudreau Rd',53.636859,-113.574782
+346,'0346','Campbell Rd & Servus Pl',53.645489,-113.577592
+348,'0348','Campbell Rd & Servus Pl',53.644342,-113.577668
+350,'0350','Ctr St & Carleton Dr',53.647795,-113.575141
+351,'0351','Forest Dr & Fernwood Cres',53.635084,-113.598261
+352,'0352','Carleton Dr & Ctr St',53.646398,-113.573657
+353,'0353','SWC Ave & Cunningham Rd',53.632988,-113.61904
+354,'0354','Chevigny St & Carleton Dr',53.645463,-113.571118
+356,'0356','Chevigny St & Corriveau Ave',53.642773,-113.571086
+358,'0358','Boudreau Rd & Veness Rd',53.63594,-113.569303
+360,'0360','Levasseur Rd & Grandin Rd',53.614309,-113.620403
+362,'0362','Levasseur Rd & Grosvenor Blvd',53.614352,-113.624037
+363,'0363','Willoughby Dr & Wolcott Pl',53.649721,-113.601162
+364,'0364','Levasseur Rd & Graham Ave',53.614369,-113.631604
+365,'0365','Willoughby Dr & Waverly Dr',53.648783,-113.597217
+366,'0366','Levasseur Rd & Sir Winston Churchill Ave',53.614366,-113.637992
+367,'0367','Willoughby Dr & Wentworth Cres',53.647113,-113.598264
+368,'0368','Levasseur Rd & Sir Winston Churchill Ave',53.614214,-113.637453
+370,'0370','Levasseur Rd & Heritage Way',53.614211,-113.630056
+371,'0371','St Vital Ave & Mural Cres',53.634042,-113.6378
+372,'0372','Levasseur Rd & Hudson Rd',53.614133,-113.618734
+373,'0373','St Vital Ave & Mt Royal Dr',53.63629,-113.633991
+375,'0375','St Vital Ave & Youville Home',53.637874,-113.631577
+376,'0376','St Albert Trl & Gt Ave',53.624028,-113.61343
+377,'0377','St Vital Ave & St Albert Trl',53.640118,-113.625591
+378,'0378','St Albert Trl & Gt Ave',53.623073,-113.612672
+380,'0380','Sir Winston Churchill Ave & Hawthorne Cr',53.608025,-113.638795
+382,'0382','Sir Winston Churchill Ave & Hawthone Cr',53.607669,-113.63909
+385,'0385','Westwood Dr & Woodlands Rd',53.646633,-113.604817
+386,'0386','Boudreau Rd & Carnegie Dr',53.635953,-113.573654
+387,'0387','Woodlands Rd & Wakefield Blvd',53.648315,-113.603628
+388,'0388','Willoughby Dr & Wycliff Pl',53.646484,-113.599365
+389,'0389','Willoughby Dr & Woodlands Rd',53.645608,-113.600373
+390,'0390','Willoughby Dr & Whitman Pl',53.647517,-113.597211
+391,'0391','Giroux Rd & Lexington Dr',53.653156,-113.635347
+392,'0392','Richardson Dr W',53.604668,-113.647275
+393,'0393','Giroux Rd & Liberton Dr',53.653631,-113.631579
+394,'0394','Richardson Dr S',53.602045,-113.646633
+396,'0396','Richardson Dr E',53.605201,-113.644109
+397,'0397','Bellerose Dr & Ironwood Dr',53.648942,-113.619991
+398,'0398','Richardson Dr E',53.6047,-113.64432
+399,'0399','Bellerose Dr & Inglewood Dr',53.645918,-113.622347
+400,'0400','Richardson Dr S',53.602181,-113.64493
+402,'0402','Richardson Dr W',53.605594,-113.647056
+403,'0403','Sir Winston Churchill Ave & Woodlands Rd',53.643005,-113.597531
+404,'0404','LeClair Way & Richardson Dr',53.606371,-113.643127
+406,'0406','LeClair Way & Richarson Dr',53.607022,-113.643757
+407,'0407','Arlington Dr & Arcand Dr',53.623382,-113.599277
+409,'0409','Arlington Dr & Arcand Dr',53.623471,-113.600338
+419,'0419','Deerbourne Dr & Delorme Pl',53.654798,-113.633334
+421,'0421','Deerbourne Dr & Doolan Pl',53.654956,-113.637853
+423,'0423','Deer Rdg Dr & Dorchester Dr',53.655467,-113.643127
+425,'0425','Dorchester Dr & Dufferin St',53.652028,-113.654447
+427,'0427','Dorchester Dr & Dalhousie St',53.652058,-113.651008
+429,'0429','Dorchester Dr & Danforth Cr',53.653008,-113.64553
+431,'0431','Deer Rdg Dr & Dorchester Dr',53.655015,-113.642029
+435,'0435','Erin Rdg Dr & Erin Rdg Rd',53.657332,-113.624534
+439,'0439','St Albert Trl & Lennox Dr',53.647717,-113.627717
+459,'0459','SWC Ave & Waverly Dr',53.650343,-113.594498
+461,'0461','SWC Ave & Sturgeon Rd',53.651975,-113.596064
+463,'0463','Kingswood Dr & Kings Gt',53.654445,-113.595474
+465,'0465','Kingswood Dr & Kingsview Pt',53.653993,-113.592772
+467,'0467','Kingswood Dr & Kingsbridge Cl',53.652032,-113.592245
+473,'0473','Parkwood Dr & Pk Ave',53.640908,-113.594824
+487,'0487','St Albert Trl & Bellerose Dr',53.644974,-113.626298
+489,'0489','Bellerose Dr & St Albert Trl',53.644194,-113.624112
+493,'0493','St Vital Ave & Mission Pl',53.635492,-113.635333
+495,'0495','St Vital Ave & Malmo Ave',53.634783,-113.636854
+497,'0497','Deer Rdg Dr & Devon Cl',53.656571,-113.649877
+499,'0499','Deer Rdg Dr & Dufferin St',53.65584,-113.654829
+501,'0501','Dorchester Dr & Deer Rdg Dr',53.653953,-113.657552
+505,'0505','Boudreau Rd & Sturgeon Hosp',53.653891,-113.625576
+507,'0507','Deer Rdg Dr & Donald Pl',53.656456,-113.64656
+513,'0513','Harwood Dr & Heritage Blvd',53.610414,-113.636428
+515,'0515','Harwood Dr & Heritage Blvd',53.610423,-113.636608
+523,'0523','Harwood Dr & Huntington Cres',53.607634,-113.634107
+525,'0525','Harwood Dr & Harmony Pl',53.607574,-113.635091
+532,'0532','Nakî Transit Sta & P&R',53.615302,-113.592509
+533,'0533','Nakî Transit Sta & P&R',53.615307,-113.592925
+535,'0535','Nakî Transit Sta & P&R',53.615453,-113.592517
+536,'0536','Nakî Transit Ctr & P&R',53.615462,-113.592856
+537,'0537','Nakî Transit Sta & P&R',53.615458,-113.593184
+538,'0538','Nakî Transit Sta & P&R',53.615455,-113.59348
+539,'0539','Nakî Transit Sta & P&R',53.615587,-113.592434
+540,'0540','Nakî Transit Sta & P&R',53.615613,-113.592792
+541,'0541','Nakî Transit Sta & P&R',53.615595,-113.593055
+542,'0542','Nakî Transit Sta & P&R',53.61559,-113.593359
+545,'0545','Nakî Transit Sta & P&R',53.615772,-113.593575
+557,'0557','Harwood Dr & Hampton Cres',53.607641,-113.631791
+569,'0569','McKenney Ave & Mission Ave',53.638362,-113.644838
+571,'0571','Poirier Ave & Sir Winston Churchill Ave',53.643824,-113.592956
+575,'0575','Poirier Ave & Kirkwood Dr',53.642888,-113.591001
+579,'0579','Parkwood Dr & Pk Ave',53.640967,-113.594547
+581,'0581','Primeau Ln & Boudreau Rd',53.638794,-113.593505
+583,'0583','Primeau Ln & Boudreau Rd',53.638911,-113.593597
+585,'0585','Forest Dr & Fraser Dr',53.637548,-113.595018
+587,'0587','Cunningham Rd & Sunset Blvd',53.633052,-113.614393
+593,'0593','Forest Dr & Fraser Dr',53.637777,-113.594968
+597,'0597','Gervais Rd & Levasseur Rd',53.614684,-113.614923
+599,'0599','Sunset Blvd & Hebert Rd',53.623509,-113.607815
+603,'0603','Poirier Ave & Campbell Rd',53.642332,-113.580136
+609,'0609','SWC Ave & Perron St',53.631964,-113.622609
+611,'0611','St Albert Trl & Giroux Rd',53.6524,-113.629155
+613,'0613','Poirier Ave & Campbell Rd',53.642212,-113.579757
+617,'0617','Boudreau Rd & Westwood Dr',53.644442,-113.608646
+619,'0619','Bellerose Dr & Evergreen Dr',53.651491,-113.616067
+633,'0633','Bellerose Dr & Evergreen Dr',53.651554,-113.616505
+643,'0643','Hudson Rd & Levasseur Rd',53.613637,-113.619377
+645,'0645','Heritage Dr & Hudson Rd',53.612406,-113.620434
+647,'0647','Heritage Dr & Highland Cr',53.611811,-113.625293
+651,'0651','Sunset Blvd & Cunningham Rd',53.632451,-113.614307
+657,'0657','Heritage Dr & Hillcrest Pl',53.61125,-113.628636
+659,'0659','Gervais Rd & Levasseur Rd',53.616301,-113.615299
+663,'0663','Bellerose Dr & Boudreau Rd',53.650734,-113.61863
+665,'0665','Boudreau Rd & Ellesmere Dr',53.652542,-113.622398
+667,'0667','Erin Rdg Dr & Boudreau Rd',53.654327,-113.624373
+669,'0669','Erin Rdg Dr & Ellesmere Dr',53.656435,-113.624209
+671,'0671','Erin Rdg Rd & Erin Rdg Dr',53.657727,-113.625039
+673,'0673','Giroux Rd & Dunbar St',53.653702,-113.632672
+675,'0675','Lexington Dr & Giroux Rd',53.652817,-113.635939
+677,'0677','Langholm Dr & Lucien Dr',53.65063,-113.633634
+679,'0679','Langholm Dr & Lennox Dr',53.647694,-113.632348
+681,'0681','Langholm Dr & Lauriston Pl',53.644643,-113.632827
+683,'0683','Dawson Rd & Lambert Cres',53.643709,-113.635271
+685,'0685','McKenney Ave & Dawson Rd',53.641062,-113.633372
+687,'0687','Oakmont Dr & Bellerose Dr',53.656103,-113.614124
+689,'0689','Bellerose Dr & St Albert Trl',53.644683,-113.623127
+691,'0691','Bellerose Dr & Inglewood Dr',53.646374,-113.621613
+693,'0693','Bellerose Dr & Ironwood Pt',53.648862,-113.619701
+695,'0695','Bellerose Dr & Edward Way',53.655626,-113.614712
+703,'0703','St Albert Trl & McKenney Ave',53.645556,-113.627005
+705,'0705','Corriveau Ave & Veness Rd',53.642289,-113.567292
+711,'0711','Giroux Rd & Bellerose High Sch',53.647499,-113.656531
+715,'0715','Dunbar St & Giroux Rd',53.654006,-113.632092
+717,'0717','Giroux Rd & Bellerose HS',53.64728,-113.656582
+719,'0719','Deer Rdg Dr & Dorchester Dr',53.654312,-113.658625
+721,'0721','Laydon Dr & Lester Cr',53.638603,-113.647452
+723,'0723','Erin Rdg Dr & Ebony Way',53.66391,-113.625825
+733,'0733','Levasseur Rd & Grosvenor Blvd',53.614189,-113.622887
+735,'0735','Hudson Rd & Heritage Dr',53.6124,-113.619582
+737,'0737','Heritage Dr & Hudson Rd',53.611891,-113.619673
+739,'0739','Heritage Dr & Hanover Pl',53.610727,-113.619536
+741,'0741','Heritage Dr & Haviland Cres',53.610259,-113.620218
+743,'0743','Heritage Dr & Hayden Pl',53.609141,-113.622261
+745,'0745','Heritage Dr & Haviland Cres',53.6087,-113.623674
+747,'0747','Heritage Dr & Hardcastle Pl',53.607594,-113.62718
+749,'0749','Heritage Dr & Hardcastle Pl',53.607712,-113.628168
+751,'0751','Heritage Dr & Harwood Dr',53.60814,-113.629855
+753,'0753','Harwood Dr & Heritage Dr',53.608227,-113.63064
+755,'0755','Harwood Dr & Harnois Pl',53.612529,-113.634763
+757,'0757','Harwood Dr & Harnois Pl',53.61265,-113.634786
+759,'0759','Harwood Dr & Heritage Way',53.612999,-113.631468
+761,'0761','Heritage Way & Harwood Dr',53.613323,-113.630795
+763,'0763','Perron St & St Thomas St',53.632695,-113.624345
+765,'0765','Perron St & St Thomas St',53.633302,-113.624634
+771,'0771','McKenney Ave & Mission Ave',53.638183,-113.644705
+773,'0773','Laydon Dr & Lafonde Cr',53.640197,-113.649333
+775,'0775','Larose Dr & Larkspur Cr',53.64267,-113.648799
+777,'0777','Larose Dr & Laydon Dr',53.642839,-113.648899
+779,'0779','Larose Dr & Langley Ave',53.642759,-113.642891
+781,'0781','Larose Dr & Lawrence Cr',53.644813,-113.640775
+783,'0783','Larose Dr & Leddy Ave',53.646478,-113.64142
+785,'0785','Larose Dr & Larson Ave',53.648291,-113.643341
+787,'0787','Lockhart Dr & Lodgepole Cr',53.646191,-113.65103
+789,'0789','Lockhart Dr & Larose Dr',53.646282,-113.650937
+791,'0791','Giroux Rd & Lockhart Dr',53.648011,-113.653149
+793,'0793','Giroux Rd & Dufferin St',53.648193,-113.653295
+795,'0795','Giroux Rd & Lacombe Dr',53.646257,-113.66168
+797,'0797','Giroux Rd & Dunfield Cr',53.646243,-113.662772
+799,'0799','Hogan Rd & Newport Cr',53.65155,-113.663505
+801,'0801','Hogan Rd & Delwood Pl',53.652003,-113.663294
+803,'0803','Deer Rdg Dr & Dubonnet Way',53.653756,-113.660121
+805,'0805','Deer Rdg Dr & Dubonnet Way',53.653618,-113.661185
+807,'0807','Deerbourne Dr & Deer Rdg Dr',53.654821,-113.639932
+809,'0809','Deerbourne Dr & Deer Rdg Dr',53.65478,-113.639771
+811,'0811','Deerbourne Dr & Doolan Pl',53.654772,-113.637753
+819,'0819','Dunbar St & Deerbourne Dr',53.65459,-113.632528
+821,'0821','Langholm Dr & Laval Dr',53.650825,-113.634114
+823,'0823','Langholm Dr & Lennox Dr',53.64827,-113.631782
+825,'0825','Langholm Dr & Lincoln Cres',53.646295,-113.632396
+827,'0827','Langholm Dr & Dawson Rd',53.644076,-113.634726
+829,'0829','Dawson Rd & McKenney Ave',53.641503,-113.634118
+831,'0831','Liberton Dr & Lennox Dr',53.648176,-113.629726
+833,'0833','Liberton Dr & Liberton Clinic',53.645659,-113.628452
+835,'0835','Liberton Dr & McKenney Ave',53.643131,-113.628796
+837,'0837','McKenney Ave & Muir Dr',53.642687,-113.629285
+839,'0839','Muir Dr & McKenney Ave',53.642313,-113.628729
+841,'0841','Erin Rdg Rd & St Albert Trl',53.657957,-113.628269
+843,'0843','Erin Rdg Dr & Enfield Pl',53.661615,-113.627649
+847,'0847','Erin Rdg Dr & Ellesmere Dr',53.655814,-113.62433
+849,'0849','Oakland Way & Oakridge Dr N',53.661779,-113.612826
+855,'0855','Waverly Dr & Willoughby Dr',53.649047,-113.59652
+857,'0857','Kingswood Dr & Kingsway Dr',53.65094,-113.591873
+859,'0859','Kingswood Dr & Kingsview Pt',53.654042,-113.592566
+861,'0861','Kingswood Dr & Kings Gt',53.654619,-113.595668
+863,'0863','Waverly Dr & SWC Ave',53.64984,-113.594816
+865,'0865','Willoughby Dr & Waverly Dr',53.649268,-113.597467
+867,'0867','Willoughby Dr & Wagner Pl',53.649867,-113.601056
+869,'0869','Woodlands Rd & Wakefield Blvd',53.648145,-113.603928
+871,'0871','Pk Ave & SWC Ave',53.642563,-113.596749
+873,'0873','Pk Ave & Parkwood Dr',53.64144,-113.594902
+875,'0875','Parkwood Dr & Primeau Ln',53.638997,-113.592715
+877,'0877','Parkwood Dr & Palladium Pt',53.638659,-113.591203
+879,'0879','Pineview Dr & Parkwood Dr',53.638907,-113.588224
+881,'0881','Pineview Dr & Pineridge Cres',53.638956,-113.587833
+883,'0883','Pineview Dr & Page Dr',53.639049,-113.585358
+885,'0885','Pineview Dr & Page Dr',53.639283,-113.584205
+887,'0887','Boudreau Rd & Akins Dr',53.635943,-113.583195
+889,'0889','Akins Dr & Boudreau Rd',53.635523,-113.583864
+891,'0891','Forest Dr & Falstaff Ave',53.633476,-113.60026
+893,'0893','Falstaff Ave & Forest Dr',53.63287,-113.600456
+895,'0895','Fairview Blvd & Forest Dr',53.63332,-113.607188
+897,'0897','Fairview Blvd & Fairfax Cres',53.633508,-113.607274
+899,'0899','St Albert Trl & Inglewood Dr',53.648475,-113.62751
+901,'0901','SWC Ave & Pk Ave',53.643079,-113.596213
+903,'0903','Liberton Dr & Giroux Rd',53.652842,-113.631551
+905,'0905','Larose Dr & Lorraine Cr',53.647804,-113.64692
+907,'0907','Larose Dr & Lorraine Cr',53.647679,-113.647692
+909,'0909','Boudreau Rd & Summit Ctr',53.653958,-113.62717
+911,'0911','Grandin Rd & Gordon Cres',53.615993,-113.61933
+913,'0913','Grandin Rd & Gaspe Ct',53.616738,-113.61904
+915,'0915','Gervais Rd & Grange Dr',53.619772,-113.611797
+919,'0919','Gervais Rd & Galarneau Pl',53.619857,-113.611291
+923,'0923','Gervais Rd & Goodridge Dr',53.617891,-113.613684
+925,'0925','St Albert Trl & Save On Foods N',53.661066,-113.631555
+927,'0927','Hogan Rd & Nelson Ct',53.647544,-113.665381
+929,'0929','Hogan Rd & Dunfield Cr',53.649803,-113.664159
+931,'0931','Bellerose Dr & Oakmont Dr',53.654415,-113.613854
+933,'0933','Boudreau Rd & Chatelain Dr',53.636152,-113.569664
+935,'0935','Eldorado Dr & Erin Rdg Dr',53.659421,-113.625108
+937,'0937','Oakridge Dr N & Oakland Way',53.661383,-113.611757
+939,'0939','Oakmont Dr & Oakridge Dr N',53.65649,-113.613004
+941,'0941','Eldorado Dr & Eastcott Dr',53.659998,-113.621529
+943,'0943','Eldorado Dr & Eastcott Dr',53.659766,-113.620404
+945,'0945','Eldorado Dr & English Way',53.6598,-113.618238
+947,'0947','Eldorado Dr & English Way',53.659682,-113.61733
+965,'0965','Oakland Way & Bellerose Dr',53.662554,-113.613567
+971,'0971','St Albert Ctr Exch',53.640458,-113.62347
+972,'0972','St Albert Ctr Exch',53.640458,-113.623647
+973,'0973','St Albert Ctr Exch',53.640093,-113.623818
+974,'0974','St Albert Ctr Exch',53.639,-113.623464
+981,'0981','Erin Rdg Dr & Eldorado Dr',53.659485,-113.625828
+983,'0983','Erin Rdg Dr & Eastwood Pl',53.66141,-113.627483
+987,'0987','SWC Ave & Sturgeon Rd',53.652129,-113.596371
+989,'0989','Hogan Rd & Nelson Ct',53.648096,-113.665027
+991,'0991','Erin Rdg Dr & Bellerose Dr',53.665194,-113.610042
+993,'0993','Erin Rdg Dr & Bellerose Dr',53.665036,-113.610065
+995,'0995','Kirkwood Dr & Poirier Ave',53.642821,-113.590213
+997,'0997','Parkwood Dr & Poirier Ave',53.642432,-113.591185
+999,'0999','Boudreau Rd & Ironwood Dr',53.652027,-113.621781
+1019,'1019','101 St & 104 Ave',53.547126,-113.493553
+1024,'1024','102 St & 111 Ave',53.558788,-113.497897
+1083,'1083','109 St & Jasper Ave',53.540827,-113.50716
+1107,'1107','Kingsway RAH TC B:D',53.558367,-113.501849
+1128,'1128','101 St & 102 Ave',53.5439,-113.493591
+1223,'1223','106 St & 117 Ave',53.567449,-113.503102
+1226,'1226','106 St & 113 Ave',53.562242,-113.503557
+1227,'1227','106 St & 117 Ave',53.568069,-113.502751
+1262,'1262','100 St & Jasper Ave',53.541166,-113.491477
+1292,'1292','100 St & 102A Ave',53.54372,-113.490944
+1302,'1302','Gov TC B:B',53.535984,-113.504252
+1304,'1304','Gov TC B:D',53.536019,-113.504463
+1346,'1346','101 St & 101A Ave NS',53.541862,-113.493597
+1426,'1426','101 St & Kingsway',53.553986,-113.493859
+1439,'1439','101 St & 103A Ave',53.546012,-113.492656
+1557,'1557','109 St & 105 Ave',53.54793,-113.508657
+1604,'1604','St Albert Trl & Yellowhead Trl',53.580521,-113.556268
+1608,'1608','100 St & 103 Ave',53.54513,-113.49117
+1620,'1620','101 St & Jasper Ave',53.54103,-113.495157
+1669,'1669','124 St & 118 Ave',53.5704,-113.53672
+1679,'1679','105 St & 104 Ave',53.546114,-113.500398
+1702,'1702','109 St & 104 Ave',53.546728,-113.508241
+1711,'1711','107 St & 100 Ave',53.539718,-113.504658
+1716,'1716','Groat Rd & 118 Ave',53.570206,-113.547724
+1718,'1718','105 St & 102 Ave',53.543572,-113.500973
+1740,'1740','105 St & Jasper Ave',53.541617,-113.500974
+1759,'1759','St Albert Trl & Sherbrooke Ave',53.57728,-113.554366
+1794,'1794','107 St & 99 Ave',53.537619,-113.504684
+1797,'1797','109 St & Kingsway',53.561262,-113.5091
+1847,'1847','123 St & 118 Ave',53.570205,-113.535136
+1850,'1850','105 St & 104 Ave',53.546333,-113.502197
+1851,'1851','109 St & 102 Ave',53.543295,-113.508238
+1904,'1904','Airport Rd E & Kingsway',53.565882,-113.520017
+1924,'1924','101 St & Kingsway',53.554936,-113.494297
+1941,'1941','107 St & 100 Ave',53.538483,-113.504859
+1947,'1947','St Albert Trl & 119 Ave',53.572189,-113.550164
+1951,'1951','109 St & Kingsway',53.560278,-113.507491
+1959,'1959','108 St & Jasper Ave Nearside',53.541034,-113.506371
+1964,'1964','107 St & Jasper Ave',53.540394,-113.504854
+1989,'1989','108 St & 104 Ave',53.546338,-113.505834
+1994,'1994','117 St & Kingsway',53.565968,-113.520884
+2135,'2135','112 St & 87 Ave',53.52276,-113.522075
+2410,'2410','112 St & 84 Ave',53.520329,-113.521004
+2638,'2638','114 St & 85 Ave',53.521384,-113.525438
+2749,'2749','114 St & 87 Ave',53.522997,-113.526634
+2844,'2844','116 St & 87 Ave',53.522775,-113.528289
+2982,'2982','114 St & 83 Ave',53.519815,-113.525348
+5083,'5083','Groat Rd & 118 Ave',53.569012,-113.549548
+5173,'5173','St Albert Trl & Yellowhead Trl',53.579799,-113.556275
+5207,'5207','Westmount TC B:E',53.560945,-113.555738
+5211,'5211','135 St & Coronation Rd B:I',53.559978,-113.555618
+5251,'5251','156 St & 114 Ave',53.563551,-113.590296
+5356,'5356','St Albert Trl & Dovercourt Ave',53.576534,-113.554084
+5408,'5408','156 St & 118 Ave',53.571041,-113.590225
+5418,'5418','170 St Service Rd & 114 Ave',53.562955,-113.61388
+5444,'5444','156 St & 118 Ave',53.569673,-113.590519
+5669,'5669','163 St & 114 Ave',53.56308,-113.603725
+5692,'5692','156 St & 114 Ave',53.563135,-113.591013
+5794,'5794','178 St & Stony Plain Rd',53.540088,-113.627609
+5840,'5840','W Edm Mall B:B',53.524951,-113.622898
+5850,'5850','163 St & 114 Ave',53.562957,-113.602161
+6110,'6110','156 St & 128 Ave',53.584468,-113.590552
+6152,'6152','St Albert Trl & 134 Ave',53.594473,-113.569544
+6161,'6161','Mark Messier Trl & 142 Ave',53.603987,-113.578893
+6226,'6226','St Albert Trl & 131 Ave',53.591406,-113.5661
+6227,'6227','St Albert Trl & 126 Ave',53.582272,-113.557524
+6272,'6272','St Albert Trl & 128 Ave',53.585088,-113.560761
+6273,'6273','Mark Messier Trl & 142 Ave',53.601769,-113.577348
+6388,'6388','St Albert Trl & 130 Ave',53.58882,-113.564173
+6488,'6488','St Albert Trl & 134 Ave',53.59435,-113.569954
+6533,'6533','St Albert Trl & 130 Ave',53.58991,-113.564667
+6540,'6540','St Albert Trl & 131 Ave',53.590293,-113.565602
+6549,'6549','156 St & 137 Ave',53.600269,-113.590027
+6550,'6550','St Albert Trl & 128 Ave',53.585976,-113.560939
+6673,'6673','St Albert Trl & 137 Ave',53.597785,-113.573234
+6741,'6741','156 St & 137 Ave',53.598598,-113.590435
+6757,'6757','156 St & 128 Ave',53.585322,-113.59009
+6760,'6760','St Albert Trl & 136 Ave',53.597085,-113.573087
+8395,'8395','170 St & 109 Ave',53.555725,-113.615548
+8483,'8483','170 St & 114 Ave',53.562663,-113.61553
+8497,'8497','170 St & 111 Ave',53.559049,-113.615544
+8506,'8506','178 St & Stony Plain Rd',53.542176,-113.627215
+8662,'8662','178 St & 103 Ave',53.545552,-113.627297
+8693,'8693','178 St & 105 Ave',53.549028,-113.62726
+8731,'8731','172 St & 107 Ave',53.553182,-113.617232
+8742,'8742','178 St & 102 Ave',53.543659,-113.627309
+8752,'8752','178 St & 102 Ave',53.542861,-113.627571
+8765,'8765','178 St & 105 Ave',53.548252,-113.627525
+8838,'8838','178 St & 103 Ave',53.545181,-113.627553
+8851,'8851','170 St & 109 Ave',53.556533,-113.615108
+8861,'8861','170 St & 107 Ave',53.553355,-113.616264
+8882,'8882','178 St & 107 Ave',53.553188,-113.626715
+8917,'8917','176 St & 107 Ave',53.553351,-113.624918
+8935,'8935','170 St & 111 Ave Nearside',53.559349,-113.615071
+8936,'8936','170 St & 107 Ave',53.553741,-113.615097
+8944,'8944','176 St & 107 Ave',53.553192,-113.623785
+8952,'8952','178 St & 107 Ave',53.552877,-113.627459
+11094,'11094','109 St & 103 Ave',53.544182,-113.508667
+11095,'11095','109 St & 103 Ave',53.54492,-113.50825
+55848,'55848','178 St & Stony Plain Rd',53.540699,-113.62721
