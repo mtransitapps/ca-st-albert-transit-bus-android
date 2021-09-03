@@ -1,13 +1,17 @@
-20100,0,'MacEwan U',201
+20100,0,'Edmonton / MacEwan U',201
 20101,0,'St Albert',201
 20200,0,'Kingsway TC',202
 20201,0,'St Albert',202
 20301,0,'St Albert',203
 20300,0,'U Of A',203
+20401,0,'St Albert',204
+20400,0,'U Of A',204
 20501,0,'St Albert',205
 20500,0,'W Edm',205
 20800,0,'Gov Ctr',208
 20801,0,'St Albert',208
+21100,0,'Edmonton',211
+21101,0,'St Albert',211
 100400,0,'Lacombe Pk Deer Rdg',1004
 100501,0,'Deer Rdg Lacombe Pk',1005
 100600,0,'N Rdg',1006
@@ -16,10 +20,15 @@
 100801,0,'Oakmont Erin Rdg',1008
 100900,0,'Kingswood',1009
 100901,0,'Naki TC',1009
+101200,0,'Naki TC Campbell Akinsdale',1012
+101300,0,'Naki TC Akinsdale Campbell',1013
 101401,0,'St Albert Ctr',1014
 101400,0,'St Albert N',1014
 102101,0,'Naki TC',1021
-102100,0,'Riel',1021
+102100,0,'St Albert Ctr',1021
+102200,0,'Riel Heritage Lks Naki TC',1022
+102300,0,'Heritage Lks Riel Naki TC',1023
+102400,0,'Grandin Naki TC',1024
 103101,0,'Naki TC',1031
 103100,0,'St Albert Ctr',1031
 103201,0,'Naki TC',1032
