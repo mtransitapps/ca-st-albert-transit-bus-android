@@ -97,7 +97,7 @@
 133,'0133','Mission Ave & St Vital Ave',53.633582,-113.639723
 135,'0135','Mission Ave & Milburn Cr',53.637429,-113.643708
 137,'0137','Laydon Dr & Lester Cr',53.638753,-113.647312
-139,'0139','Laydon Dr & Lafonde Cr',53.64037,-113.649436
+139,'0139','Laydon Dr & Lafonde Cr',53.640418,-113.649521
 142,'0142','Heritage Way & Harwood Dr',53.612609,-113.630845
 144,'0144','Heritage Way & Hillcrest Pl',53.611162,-113.627744
 149,'0149','Larose Dr & Larson Ave',53.647888,-113.642662
@@ -215,7 +215,7 @@
 363,'0363','Willoughby Dr & Wolcott Pl',53.649721,-113.601162
 364,'0364','Levasseur Rd & Graham Ave',53.614369,-113.631604
 365,'0365','Willoughby Dr & Waverly Dr',53.648783,-113.597217
-366,'0366','Levasseur Rd & Sir Winston Churchill Ave',53.614366,-113.637992
+366,'0366','Levasseur Rd & Sir Winston Churchill Ave',53.614364,-113.63781
 367,'0367','Willoughby Dr & Wentworth Cres',53.647113,-113.598264
 368,'0368','Levasseur Rd & Sir Winston Churchill Ave',53.614214,-113.637716
 370,'0370','Levasseur Rd & Heritage Way',53.614211,-113.63025
@@ -251,7 +251,7 @@
 408,'0408','Gt Ave & St Albert Trl',53.623189,-113.614241
 409,'0409','Arlington Dr & Arcand Dr',53.623471,-113.600338
 419,'0419','Deerbourne Dr & Delorme Pl',53.654798,-113.633334
-421,'0421','Deerbourne Dr & Doolan Pl',53.654956,-113.637853
+421,'0421','Deerbourne Dr & Doolan Pl',53.655005,-113.637934
 423,'0423','Deer Rdg Dr & Dorchester Dr',53.655467,-113.643127
 425,'0425','Dorchester Dr & Dufferin St',53.652028,-113.654447
 427,'0427','Dorchester Dr & Dalhousie St',53.652058,-113.651008
@@ -319,7 +319,7 @@
 667,'0667','Erin Rdg Dr & Boudreau Rd',53.654327,-113.624373
 669,'0669','Erin Rdg Dr & Ellesmere Dr',53.656435,-113.624209
 671,'0671','Erin Rdg Rd & Erin Rdg Dr',53.657727,-113.625039
-673,'0673','Giroux Rd & Dunbar St',53.653702,-113.632672
+673,'0673','Giroux Rd & Dunbar St',53.65375,-113.632697
 675,'0675','Lexington Dr & Giroux Rd',53.652817,-113.635939
 677,'0677','Langholm Dr & Lucien Dr',53.65063,-113.633634
 679,'0679','Langholm Dr & Lennox Dr',53.647694,-113.632348
@@ -360,8 +360,8 @@
 773,'0773','Laydon Dr & Lafonde Cr',53.640197,-113.649333
 775,'0775','Larose Dr & Larkspur Cr',53.64267,-113.648799
 777,'0777','Larose Dr & Laydon Dr',53.642839,-113.648899
-779,'0779','Larose Dr & Langley Ave',53.642719,-113.642827
-781,'0781','Larose Dr & Lawrence Cr',53.644813,-113.640775
+779,'0779','Larose Dr & Langley Ave',53.642734,-113.642904
+781,'0781','Larose Dr & Lawrence Cr',53.644754,-113.640795
 783,'0783','Larose Dr & Leddy Ave',53.646478,-113.64142
 785,'0785','Larose Dr & Larson Ave',53.648291,-113.643341
 787,'0787','Lockhart Dr & Lodgepole Cr',53.646191,-113.65103
