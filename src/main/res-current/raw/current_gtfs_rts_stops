@@ -77,7 +77,6 @@
 96,'0096','Riel Dr & SWC Ave',53.62687,-113.635664,1
 98,'0098','SWC Ave & Gresham Blvd',53.627197,-113.632856,1
 100,'0100','SWC Ave & Tache St',53.629784,-113.628909,1
-102,'0102','St Albert Trl & Boudreau Rd',53.654457,-113.629277,1
 103,'0103','Mission Ave & Morgan Cr',53.636865,-113.643715,1
 106,'0106','N Rdg Dr & Naples Way',53.645975,-113.671358,1
 108,'0108','N Rdg Dr & Nicola Rd',53.647941,-113.671181,1
@@ -126,7 +125,7 @@
 213,'0213','Falstaff Ave & Hebert Rd',53.631862,-113.597792,1
 214,'0214','N Rdg Dr & Natalia Way',53.654915,-113.671388,1
 219,'0219','Fairview Blvd & Fairchild Dr',53.636085,-113.606977,1
-220,'0220','Versailles Ave & Giroux Rd',53.638653,-113.672314,1
+220,'0220','Versailles Ave & Giroux Rd NB',53.638653,-113.672314,1
 221,'0221','SWC Ave & Franklin Pl',53.638096,-113.605395,1
 222,'0222','Giroux Rd & Versailles Ave',53.63985,-113.672496,1
 223,'0223','SWC Ave & Flagstone Cres',53.639753,-113.603339,1
