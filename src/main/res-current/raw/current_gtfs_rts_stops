@@ -132,7 +132,7 @@
 223,'0223','SWC Ave & Flagstone Cres',53.639753,-113.603339,1
 224,'0224','Giroux Rd & Versailles Ave',53.640145,-113.672269,1
 225,'0225','Woodlands Rd & Wimbleton Cres',53.644089,-113.597646,1
-226,'0226','Sturgeon Rd & Botanical Pk',53.651467,-113.600177,1
+226,'0226','Sturgeon Rd & Botanic Pk',53.651467,-113.600177,1
 228,'0228','Riel Dr & Enjoy Ctr N',53.612559,-113.646617,1
 229,'0229','Westwood Dr & Windsor Cres',53.644859,-113.607704,1
 231,'0231','Sturgeon Rd & Beaverbrook Cres',53.644295,-113.613181,1
@@ -167,6 +167,7 @@
 285,'0285','Hebert Rd & Sunset Blvd',53.623047,-113.607783,1
 289,'0289','SWC Ave & Cunningham Rd',53.632975,-113.618444,1
 291,'0291','Forest Dr & Finch Cres',53.635177,-113.597868,1
+298,'0298','Neil Ross Rd & Costco',53.672439,-113.636913,1
 299,'0299','Boudreau Rd & Campbell Rd',53.635945,-113.580681,1
 300,'0300','Element Dr & Neil Ross Rd',53.672036,-113.634035,1
 301,'0301','Carnegie Dr & Chisholm Ave',53.636945,-113.574546,1
