@@ -77,7 +77,6 @@
 96,'0096','Riel Dr & SWC Ave',53.62687,-113.635664,1
 98,'0098','SWC Ave & Gresham Blvd',53.627197,-113.632856,1
 100,'0100','SWC Ave & Tache St',53.629784,-113.628909,1
-102,'0102','St Albert Trl & Boudreau Rd',53.654457,-113.629277,1
 103,'0103','Mission Ave & Morgan Cr',53.636865,-113.643715,1
 106,'0106','N Rdg Dr & Naples Way',53.645975,-113.671358,1
 108,'0108','N Rdg Dr & Nicola Rd',53.647941,-113.671181,1
@@ -150,11 +149,13 @@
 250,'0250','Element Dr & Lowes',53.669942,-113.633036,1
 251,'0251','Westwood Dr & Windsor Cres',53.644941,-113.607375,1
 252,'0252','Riel Dr & Enjoy Ctr S',53.611119,-113.645868,1
+253,'0253','St Albert Trl & Erin Rdg Rd',53.658748,-113.629601,1
 254,'0254','St Anne St & St Thomas St',53.632094,-113.627307,1
 255,'0255','Woodlands Rd & Woodcrest Av',53.644303,-113.598194,1
 257,'0257','SWC Ave & Brunswick Cr',53.639743,-113.603755,1
 258,'0258','Riel Dr & Renault Cres',53.615714,-113.648142,0
 259,'0259','SWC Ave & Ridgewood Terr',53.638156,-113.60571,1
+260,'0260','St Albert Trl & Jensen Lks Blvd',53.664915,-113.634139,1
 261,'0261','Fairview Blvd & Fairchild Dr',53.635604,-113.606959,1
 267,'0267','Falstaff Ave & Fenwick Cr',53.631919,-113.598264,1
 271,'0271','Cunningham Rd & Stanley Dr',53.628882,-113.602081,1
