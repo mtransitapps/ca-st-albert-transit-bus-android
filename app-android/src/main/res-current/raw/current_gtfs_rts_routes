@@ -1,9 +1,11 @@
 201,'201','Downtown Edmonton Loop','002B53',49587,3
 202,'202','Kingsway TC Via NAIT','BA6028',49588,3
 203,'203','UofA Via Westmount','3E3621',49589,3
+204,'204','UofA Express','199C8C',49590,3
 205,'205','West Edmonton','1E91D1',49591,3
 208,'208','Government Centre Express','D4118C',49594,3
 211,'211','Downtown Edmonton Express','6751A1',49618,3
+1000003,'A3','Riverside','',2066,3
 1000004,'A4','Lacombe - Deer Ridge','F06D25',2067,3
 1000005,'A5','Deer Ridge - Lacombe','2D578E',2068,3
 1000006,'A6','Deer Ridge - North Ridge','7B9B3D',2069,3
