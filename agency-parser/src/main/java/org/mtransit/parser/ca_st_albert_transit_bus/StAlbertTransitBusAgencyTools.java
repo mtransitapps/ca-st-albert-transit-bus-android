@@ -65,15 +65,6 @@ public class StAlbertTransitBusAgencyTools extends DefaultAgencyTools {
 	}
 
 	@Override
-	public @NotNull String getRouteShortName(@NotNull GRoute gRoute) {
-		if (FeatureFlags.F_USE_GTFS_ID_HASH_INT) {
-			return super.getRouteShortName(gRoute);
-		}
-		//noinspection deprecation
-		return gRoute.getRouteId(); // used by GTFS-RT
-	}
-
-	@Override
 	public boolean defaultRouteLongNameEnabled() {
 		return true;
 	}
@@ -162,16 +153,12 @@ public class StAlbertTransitBusAgencyTools extends DefaultAgencyTools {
 	@NotNull
 	@Override
 	public String getStopCode(@NotNull GStop gStop) {
-		if (FeatureFlags.F_USE_GTFS_ID_HASH_INT) {
-			if (StringUtils.isEmpty(gStop.getStopCode())
-					|| "0".equals(gStop.getStopCode())) {
-				//noinspection deprecation
-				return gStop.getStopId(); // used by GTFS-RT
-			}
-			return super.getStopCode(gStop);
+		if (StringUtils.isEmpty(gStop.getStopCode())
+				|| "0".equals(gStop.getStopCode())) {
+			//noinspection DiscouragedApi
+			return gStop.getStopId();
 		}
-		//noinspection deprecation
-		return gStop.getStopId(); // used by GTFS-RT
+		return super.getStopCode(gStop);
 	}
 
 	@Override
