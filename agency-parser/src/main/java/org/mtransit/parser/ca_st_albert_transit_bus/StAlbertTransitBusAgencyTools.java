@@ -37,11 +37,6 @@ public class StAlbertTransitBusAgencyTools extends DefaultAgencyTools {
 		return "St AT";
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@Nullable
 	@Override
 	public String getAgencyId() {
@@ -52,6 +47,11 @@ public class StAlbertTransitBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public Integer getAgencyRouteType() {
 		return MAgency.ROUTE_TYPE_BUS;
+	}
+
+	@Override
+	public @Nullable String getServiceIdCleanupRegex() {
+		return "^(DX|SA|SU|Blocking)-|-(STAT)-\\w+\\d{2}-\\d{7}$";
 	}
 
 	@Override
