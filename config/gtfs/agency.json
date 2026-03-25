@@ -1,0 +1,14 @@
+{
+    "target_route_type_id": 3,
+    "agency_id": "2",
+    "agency_id_comment": "St. Albert Transit",
+    "default_color": "4AA942",
+    "default_color_comment": "GREEN (from web site CSS)",
+    "default_color_enabled": true,
+    "service_id_cleanup_regex": "^(DX|SA|SU|Blocking)-|-(STAT)-\\w+\\d{2}-\\d{7}$",
+    "default_strings_cleaner_enabled": true,
+    "to_lower_upper_case_words": true,
+    "ignore_upper_case_words": [
+        "TC"
+    ]
+}
