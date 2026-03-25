@@ -19,53 +19,7 @@
             "ignore_case": true
         }
     ],
-    "use_stop_code_for_stop_id": true,
-    "stop_original_id_to_stop_id_configs": [
-        {
-            "original_stop_id": "A",
-            "stop_id": 10000
-        },
-        {
-            "original_stop_id": "B",
-            "stop_id": 20000
-        },
-        {
-            "original_stop_id": "C",
-            "stop_id": 30000
-        },
-        {
-            "original_stop_id": "D",
-            "stop_id": 40000
-        },
-        {
-            "original_stop_id": "E",
-            "stop_id": 50000
-        },
-        {
-            "original_stop_id": "F",
-            "stop_id": 60000
-        },
-        {
-            "original_stop_id": "G",
-            "stop_id": 70000
-        },
-        {
-            "original_stop_id": "H",
-            "stop_id": 80000
-        },
-        {
-            "original_stop_id": "I",
-            "stop_id": 90000
-        },
-        {
-            "original_stop_id": "J",
-            "stop_id": 100000
-        },
-        {
-            "original_stop_id": "K",
-            "stop_id": 110000
-        }
-    ],
+    "stop_id_cleanup_regex": "^(([A-Z])?(0)*)",
     "stop_name_cleaners": [
         {
             "regex": "(^[0-9]{4,5}\\s*-\\s*|^[A-Z]\\s*-\\s*)",
