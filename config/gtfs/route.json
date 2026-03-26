@@ -1,0 +1,34 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "default_route_long_name_enabled": true,
+    "direction_finder_enabled": true,
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "( express$)",
+            "ignore_case": true
+        },
+        {
+            "regex": "((\\w+) edmonton)",
+            "replacement": "$2 Edm",
+            "ignore_case": true
+        },
+        {
+            "regex": "(^(st albert center|st albert centre|st albert ctr) )",
+            "ignore_case": true
+        }
+    ],
+    "stop_id_cleanup_regex": "^(([A-Z])?(0)*)",
+    "stop_name_cleaners": [
+        {
+            "regex": "(^[0-9]{4,5}\\s*-\\s*|^[A-Z]\\s*-\\s*)",
+            "ignore_case": true
+        },
+        {
+            "regex": "((\\w+) edmonton)",
+            "replacement": "$2 Edm",
+            "ignore_case": true
+        }
+    ]
+}
