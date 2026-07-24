@@ -141,7 +141,7 @@
 237,'0237','Sturgeon Rd & Burnham Ave',53.63810,-113.61886,1,49686
 239,'0239','Sturgeon Rd & Brandon St',53.63616,-113.62265,1,49688
 241,'0241','Sturgeon Rd & Brandon St',53.63632,-113.62169,1,49711
-243,'0243','Sturgeon Rd & Burns St',53.63708,-113.61966,1,49713
+243,'0243','Sturgeon Rd & Burns St',53.63705,-113.61961,1,49713
 244,'0244','Everitt Dr & Ebony Way',53.66677,-113.63259,1,49714
 245,'0245','Burnham Ave & Bernard Dr',53.63835,-113.61614,1,49715
 246,'0246','Everitt Dr & Element Dr N',53.66825,-113.63119,1,49716
@@ -174,9 +174,9 @@
 292,'0292','Jensen Gt & Alliance Church',53.65944,-113.65207,1,49867
 293,'0293','Jensen Lks Blvd & Joyal Way',53.66032,-113.64491,1,49868
 294,'0294','Jensen Lks Blvd & Joyal Way',53.66032,-113.64457,1,49869
-298,'0298','Neil Ross Rd & Costco',53.67244,-113.63691,1,49873
+298,'0298','Neil Ross Rd & Costco',53.67243,-113.63691,1,49873
 299,'0299','Boudreau Rd & Campbell Rd',53.63595,-113.58068,1,49874
-300,'0300','Element Dr & Neil Ross Rd',53.67191,-113.63400,1,50547
+300,'0300','Element Dr & Neil Ross Rd',53.67191,-113.63402,1,50547
 301,'0301','Carnegie Dr & Chisholm Ave',53.63695,-113.57455,1,50548
 302,'0302','Giroux Rd & Lacombe Dr',53.64150,-113.66976,1,50549
 303,'0303','Carnegie Dr & Transit Garage',53.63932,-113.57573,0,50550
@@ -383,7 +383,7 @@
 759,'0759','Harwood Dr & Heritage Way',53.61300,-113.63147,1,54555
 761,'0761','Heritage Way & Harwood Dr',53.61332,-113.63080,1,54578
 763,'0763','Perron St & St Thomas St',53.63270,-113.62435,1,54580
-765,'0765','Perron St & St Thomas St',53.63330,-113.62463,1,54582
+765,'0765','Perron St & St Thomas St',53.63345,-113.62482,1,54582
 771,'0771','McKenney Ave & Mission Ave',53.63818,-113.64471,1,54609
 773,'0773','Laydon Dr & Lafonde Cr',53.64020,-113.64933,1,54611
 775,'0775','Larose Dr & Larkspur Cr',53.64267,-113.64880,1,54613
