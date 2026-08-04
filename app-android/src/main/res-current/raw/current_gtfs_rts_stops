@@ -110,7 +110,9 @@
 169,'0169','St Albert Trl & Madison Ave',53.63853,-113.62471,1,48820
 173,'0173','St Albert Trl & St Anne St',53.63462,-113.62340,1,48845
 175,'0175','St Albert Trl & Grn Grv Dr',53.62716,-113.61834,1,48847
+193,'0193','Sturgeon Rd & Beacon Cres',53.64206,-113.61569,1,48907
 195,'0195','Sunset Blvd & Sunnyside Cres',53.62421,-113.60941,1,48909
+196,'0196','Sturgeon Rd & Burnham Ave',53.64206,-113.61602,1,48910
 197,'0197','Sunset Blvd & Sheridan Dr',53.62607,-113.61324,1,48911
 198,'0198','North Rdg Dr & Northstar Cl',53.65584,-113.66690,1,48912
 199,'0199','Sunset Blvd & Sheridan Blvd',53.62808,-113.61602,1,48913
@@ -159,7 +161,9 @@
 260,'0260','St Albert Trl & Jensen Lks Blvd',53.66492,-113.63414,1,49772
 261,'0261','Fairview Blvd & Fairchild Dr',53.63560,-113.60696,1,49773
 267,'0267','Falstaff Ave & Fenwick Cr',53.63192,-113.59826,1,49779
+270,'0270','Sturgeon Rd & Beacon Cres',53.63972,-113.61812,1,49803
 271,'0271','Cunningham Rd & Stanley Dr',53.62888,-113.60208,1,49804
+272,'0272','Sturgeon Rd & Bishop St',53.63846,-113.61844,1,49805
 273,'0273','Cunningham Rd & Farmstead Ave',53.63027,-113.60800,1,49806
 275,'0275','Cunningham Rd & Forest Dr',53.63167,-113.61121,1,49808
 277,'0277','Sunset Blvd & Salisbury Ave',53.63097,-113.61615,1,49810
@@ -184,7 +188,7 @@
 305,'0305','Corriveau Ave & Carnegie Dr',53.64240,-113.57665,1,50552
 306,'0306','Riel Dr & Enjoy Ctr North',53.61314,-113.64671,1,50553
 307,'0307','Pineview Dr & Poirier Ave',53.64157,-113.58254,1,50554
-308,'0308','Jensen Lks Blvd & Jensen Xing',53.66520,-113.63921,1,50555
+308,'0308','Jensen Lks Blvd & Jensen Xing',53.66524,-113.63783,1,50555
 309,'0309','Page Dr & Pineridge Cr',53.63702,-113.58386,1,50556
 310,'0310','Jensen Lks Blvd & Jensen Xing',53.66506,-113.63779,1,50578
 311,'0311','Akins Dr & Alpine Blvd',53.63349,-113.58386,1,50579
@@ -415,7 +419,9 @@
 833,'0833','Liberton Dr & Liberton Clinic',53.64566,-113.62845,1,55448
 835,'0835','Liberton Dr & McKenney Ave',53.64313,-113.62880,1,55450
 837,'0837','McKenney Ave & Muir Dr',53.64269,-113.62929,1,55452
+838,'0838','McKenney Ave & Liberton Ter',53.64200,-113.63102,1,55453
 839,'0839','Muir Drive & McKenney Ave',53.64231,-113.62873,1,55454
+840,'0840','McKenney Ave & Muir Dr',53.64273,-113.62787,1,55476
 841,'0841','Erin Rdg Rd & St Albert Trl',53.65796,-113.62827,1,55477
 843,'0843','Erin Ridge Dr & Enfield Pl',53.66162,-113.62765,1,55479
 847,'0847','Erin Rdg Dr & Ellesmere Dr',53.65581,-113.62433,1,55483
